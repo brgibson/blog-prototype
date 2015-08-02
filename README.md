@@ -1,1 +1,0 @@
-# brgibson.github.io
