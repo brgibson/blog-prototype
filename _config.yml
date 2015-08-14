@@ -7,9 +7,9 @@ relative_permalinks: true
 # Setup
 title:               Ben's Test Blog
 tagline:             A Test of Us For the Rest Of Us?
-url:                 http://brgibson.github.io
+url:                 http://brgibson.github.io/blog-prototype
 paginate:            1
-baseurl:             ""
+baseurl:             "/blog-prototype"
 
 # Assets
 #
@@ -26,4 +26,4 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/brgibson/brgibson.github.io
+  repo:              https://github.com/brgibson/blog-prototype
