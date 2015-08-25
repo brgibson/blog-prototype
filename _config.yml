@@ -5,11 +5,12 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Ben's Test Blog
-tagline:             A Test of Us For the Rest Of Us?
+title:               The Edmunds Tech Blog
+tagline:             We &#9829; You
 url:                 http://brgibson.github.io/blog-prototype
 paginate:            1
 baseurl:             "/blog-prototype"
+baseimagesurl:       "/blog-prototype/public/images"
 
 # Assets
 #
@@ -20,8 +21,7 @@ sass:
 
 # About/contact
 author:
-  name:              Ben Gibson
-  url:               http://brgibson.com
+  name:              Edmunds Technology
 
 # Custom vars
 version:             2.0.0
