@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Introducing Poole
+summary: This is a sweet summary!  You definately want to read this article... It's written by smart people.
+image: http://1.bp.blogspot.com/-IiX-wnmpd3o/VddymZeIGnI/AAAAAAAACOs/2PgO4FsMS-w/s1600/Shawn.jpg
 ---
 
 *The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
