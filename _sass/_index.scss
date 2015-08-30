@@ -1,0 +1,40 @@
+.post-preview {
+    border-bottom: 1px lightgrey solid;
+    font-size: 16px;
+    margin: 1rem 0;
+    padding-bottom: 1rem;
+    line-height: 1.15rem;
+
+    &:first-of-type {
+        margin: 0;
+    }
+
+    .category {
+        line-height: 1.75rem;
+    }
+    .post-date {
+      color: darkgrey;
+      margin-left: .25rem;
+    }
+    .preview-image {
+        float: left;
+        width: 100%;
+    }
+    .preview-image-link {
+        display: inline-block;
+        padding-right: 1rem;
+        vertical-align: top;
+        width: 30%;
+    }
+    .preview-main {
+        display: inline-block;
+        width: 69%;
+    }
+    .preview-text {
+        display: block;
+        margin: .5rem 0;
+    }
+    .read-more {
+        margin-left: .1rem;
+    }
+}

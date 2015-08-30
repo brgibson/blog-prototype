@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Refreshing a Tech Blog
+tags: [Tips & Tricks, github, github-pages, jekyll]
 summary: Curious about what it takes to build a tech blog.  In this article, one of our front end developers, Ben Gibson, walks you through the process.
-image: http://4.bp.blogspot.com/-1ApahgMBJVE/Vba02LAZwRI/AAAAAAAACMc/JpUx0KKrvVE/s1600/Screen%2BShot%2B2015-07-27%2Bat%2B3.42.44%2BPM.png
+image: http://design-seeds.com/palettes/RefreshingHues.png
 ---
 
 Ben, here.  I just thought I'd write a quick post about refreshing a tech blog.

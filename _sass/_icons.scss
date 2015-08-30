@@ -1,0 +1,40 @@
+/**
+ * http://www.w3schools.com/charsets/ref_utf_symbols.asp
+ *
+ * 261E - White Right Pointing Index Finger
+ * 2618 - Shamrock
+ * 262E - Peace Sign
+ * 2636 - Mountain Trigram
+ * 2696 - Scales
+ */
+
+.icon {
+    &:before {
+        display: inline-block;
+        margin-right: .2rem;
+        font-size: 1.75rem;
+    }
+    &.front-end {
+        padding-bottom: 3px;
+        &:before {
+            content: '\2632'; //Trigram
+            vertical-align: sub;
+        }
+    }
+    &.reflections:before {
+        content: '\2696'; //SCALES
+        vertical-align: text-bottom;
+    }
+//    &.reflections:before {
+//        content: '\262F'; //YIN YANG
+//        vertical-align: sub;
+//    }
+//    &.reflections:before {
+//        content: '\262E'; //Peace
+//        vertical-align: sub;
+//    }
+    &.tips-and-tricks:before {
+        content: '\261E'; //Index Finger
+        vertical-align: bottom;
+    }
+}
