@@ -48,4 +48,6 @@ In a template file (ie. any file?) the _&#123;&#123; content }}_ variable comes 
 - http://www.minddust.com/post/tags-and-categories-on-github-pages/
 - http://www.geligalabs.com/code/2014/06/19/jekyll-category-list.html
 - https://github.com/Shopify/liquid/wiki/Liquid-for-Designers - jekyll function reference
-
+- http://jekyllrb.com/docs/plugins/#generators - creating generated pages (like category pages)
+- https://pages.github.com/versions/
+- https://gohugo.io/tutorials/github-pages-blog/
