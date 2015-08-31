@@ -40,6 +40,7 @@ a,
 
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
+  &:hover .anchor-hover,
   &:focus {
     border-bottom: 1px solid;
     &.no-underline {

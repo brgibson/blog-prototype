@@ -1,22 +1,29 @@
+{% if page.isHome %}
+    {% assign selected_link_text = 'Newest' %}
+{% elsif page.tag == 'Front End' %}
+    {% assign selected_link_text = 'Front End' %}
+{% elsif page.tag == 'Tips & Tricks' %}
+    {% assign selected_link_text = 'Tips & Tricks' %}
+{% elsif page.tag == 'Reflections' %}
+    {% assign selected_link_text = 'Reflections' %}
+{% endif %}
 
-<nav class="nav ">
+<nav class="nav">
     <ul class="container">
-        <li class="nav-link">
-            <a class="{% if page.isHome %} selected {% endif %} no-underline" href="{{ site.baseurl }}/">
-                Newest
-            </a>
-        </li><li class="nav-link">
-            <a class="{% if page.tag == 'Front End'%} selected {% endif %} no-underline" href="{{ site.baseurl }}/tag/front-end/">
-                Front End
-            </a>
-        </li><li class="nav-link">
-            <a class="{% if page.tag == 'Tips & Tricks'%} selected {% endif %} no-underline" href="{{ site.baseurl }}/tag/tips-and-tricks/">
-                Tips &amp; Tricks
-            </a>
-        </li><li class="nav-link">
-            <a class="{% if page.tag == 'Reflections'%} selected {% endif %} no-underline" href="{{ site.baseurl }}/tag/reflections">
-                Reflections
-            </a>
+        <li class="nav-link-container">
+            {% capture href %}{{ site.baseurl }}/{% endcapture %}
+            {% include nav-link.html link_text='Newest' selected_link_text=selected_link_text href=href %}
+
+        </li><li class="nav-link-container">
+            {% capture href %}{{ site.baseurl }}/tag/front-end/{% endcapture %}
+            {% include nav-link.html link_text='Front End' selected_link_text=selected_link_text href=href %}
+        </li><li class="nav-link-container">
+            {% capture href %}{{ site.baseurl }}/tag/tips-and-tricks/{% endcapture %}
+            {% include nav-link.html link_text='Tips & Tricks' selected_link_text=selected_link_text href=href %}
+
+        </li><li class="nav-link-container">
+            {% capture href %}{{ site.baseurl }}/tag/reflections/{% endcapture %}
+            {% include nav-link.html link_text='Reflections' selected_link_text=selected_link_text href=href %}
         </li>
     </ul>
 </nav>

@@ -1,22 +1,22 @@
-{% assign primary_tag = post.tags[0] %}
+{% assign primary_tag = include.post.tags[0] %}
 {% assign primary_tag_class = primary_tag | downcase | replace:' ','-' | replace:'&','and'  %}
 <article class="post-preview">
-    <a class="preview-image-link no-underline" href="{{ site.baseurl }}{{ post.url }}">
-        <img class="preview-image" src="{{ post.image }}"/>
+    <a class="preview-image-link no-underline" href="{{ site.baseurl }}{{ include.post.url }}">
+        <img class="preview-image" src="{{ include.post.image }}"/>
     </a>
     <div class="preview-main">
-        <a class="no-underline no-color" href="{{ site.baseurl }}{{ post.url }}">
-            <h1 class="post-title">
-                    {{ post.title }}
+        <a class="no-underline no-color" href="{{ site.baseurl }}{{ include.post.url }}">
+            <h1 class="post-title anchor-style">
+                    {{ include.post.title }}
             </h1>
             <div class="preview-text">
-                {{ post.summary }}
+                {{ include.post.summary }}
                 <span class="read-more anchor-style">Read More</span>
             </div>
         </a>
         <div>
             <a class="category icon {{primary_tag_class}}" href="{{ site.baseurl }}/tag/{{ primary_tag_class }}">{{ primary_tag }}</a>
-            <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+            <time class="post-date" datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date_to_string }}</time>
         </div>
     </div>
 </article>

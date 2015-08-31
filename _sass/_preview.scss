@@ -5,6 +5,9 @@
     padding-bottom: 1.75rem;
     line-height: 1.15rem;
 
+    .post-title {
+        display: inline;
+    }
     .category {
         line-height: 1.75rem;
     }
@@ -28,7 +31,7 @@
     }
     .preview-text {
         display: block;
-        margin: .5rem 0;
+        padding: .5rem 0;
     }
     .read-more {
         margin-left: .1rem;
