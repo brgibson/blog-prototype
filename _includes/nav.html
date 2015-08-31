@@ -1,0 +1,26 @@
+
+<nav class="nav ">
+    <ul class="container">
+        <li class="nav-link">
+            <a class="{% if page.isHome %} selected {% endif %} no-underline" href="{{ site.baseurl }}/">
+                Newest
+            </a>
+        </li><li class="nav-link">
+            <a class="{% if page.tag == 'Front End'%} selected {% endif %} no-underline" href="{{ site.baseurl }}/tag/front-end/">
+                Front End
+            </a>
+        </li><li class="nav-link">
+            <a class="{% if page.tag == 'Tips & Tricks'%} selected {% endif %} no-underline" href="{{ site.baseurl }}/tag/tips-and-tricks/">
+                Tips &amp; Tricks
+            </a>
+        </li><li class="nav-link">
+            <a class="{% if page.tag == 'Reflections'%} selected {% endif %} no-underline" href="{{ site.baseurl }}/tag/reflections">
+                Reflections
+            </a>
+        </li><li class="nav-link">
+            <a class="{% if page.isAbout %} selected {% endif %} no-underline" href="{{ site.baseurl }}/about">
+                About
+            </a>
+        </li>
+    </ul>
+</nav>

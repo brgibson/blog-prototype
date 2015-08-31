@@ -1,0 +1,38 @@
+.nav {
+    background: #336699;
+    border-bottom: 1px solid #336699;
+    border-top: 1px solid #336699;
+
+    .nav-link {
+        border-right: 1px lightgrey solid;
+        display: inline-block;
+        font-weight: 400;
+        position: relative;
+
+        &:last-of-type {
+            border-right: 0 solid;
+        }
+
+        &:hover a,
+        .selected {
+            color: lightgrey;
+        }
+        .selected:after {
+            border-left: .5rem solid transparent;
+            border-right: .5rem solid transparent;
+            border-top: .5rem solid #336699;
+            bottom: -.5rem;
+            content: '';
+            display: inline-block;
+            height: 0;
+            left: 41%;
+            position: absolute;
+            width: 0;
+        }
+        a {
+            color: white;
+            display: inline-block;
+            padding: .5rem 1.25rem;
+        }
+    }
+}

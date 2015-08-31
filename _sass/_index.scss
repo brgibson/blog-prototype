@@ -1,13 +1,9 @@
 .post-preview {
     border-bottom: 1px lightgrey solid;
     font-size: 16px;
-    margin: 1rem 0;
-    padding-bottom: 1rem;
+    margin: 1.75rem 0;
+    padding-bottom: 1.75rem;
     line-height: 1.15rem;
-
-    &:first-of-type {
-        margin: 0;
-    }
 
     .category {
         line-height: 1.75rem;
