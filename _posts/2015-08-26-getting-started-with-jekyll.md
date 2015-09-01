@@ -51,3 +51,5 @@ In a template file (ie. any file?) the _&#123;&#123; content }}_ variable comes 
 - http://jekyllrb.com/docs/plugins/#generators - creating generated pages (like category pages)
 - https://pages.github.com/versions/
 - https://gohugo.io/tutorials/github-pages-blog/
+- http://jekyllrb.com/docs/variables/ - description of all the jekyll variables
+- https://gist.github.com/tuananh/7432553 - list of pages by year

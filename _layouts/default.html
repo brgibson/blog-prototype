@@ -5,11 +5,19 @@
         {% include header.html %}
         {% include nav.html %}
 
-        <div class="container content">
-            <main>
-				{{ content }}
-			</main>
-		</div>
+        <div class="flex-container">
+            <div class="container content">
+                <main>
+                    {{ content }}
+                </main>
+            </div>
+
+            <div class="secondary-container">
+                {% include posts-by-date.html %}
+            </div>
+        </div>
+
+
 
         {% include footer.html %}
 	</body>
