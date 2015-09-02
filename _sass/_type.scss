@@ -32,7 +32,11 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  &:last-of-type {
+    margin-bottom: 0;
+  }
 }
+
 
 strong {
   color: #303030;
@@ -46,10 +50,6 @@ ul, ol, dl {
 
 dt {
   font-weight: bold;
-}
-
-dd {
-  margin-bottom: .5rem;
 }
 
 hr {

@@ -1,0 +1,20 @@
+.about {
+    border: 1px solid #ccc;
+    border-radius: .5rem;
+    overflow: hidden;
+    padding: 0;
+
+    .about-header {
+        background-color: #db3d2a;
+        color: white;
+        padding: .5rem 1rem;
+        margin: 0;
+        font-size: 18px;
+    }
+
+    .about-text {
+        padding: 1rem;
+        font-size: 16px;
+        text-align: justify;
+    }
+}
