@@ -8,7 +8,8 @@ relative_permalinks: true
 title:               The Edmunds Tech Blog
 tagline:             We &#9829; You
 url:                 http://brgibson.github.io/blog-prototype
-paginate:            3
+paginate:            6
+paginate_path:       "/:num/"
 baseurl:             "/blog-prototype"
 baseimagesurl:       "/blog-prototype/public/images"
 

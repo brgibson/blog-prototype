@@ -1,9 +1,14 @@
 .flex-container {
     display: flex;
+    flex-flow: row wrap;
     margin: 0 auto;
     max-width: 60rem;
 }
+.featured {
+    flex: 1 100%;
+}
 .container {
+    flex: 1 66%;
     max-width: 38rem;
     padding-left:  1.5rem;
     padding-right: 1.5rem;
@@ -11,6 +16,7 @@
     margin-right: auto;
 }
 .secondary-container {
+    flex: 1 34%;
     max-width: 20rem;
     padding-left:  1.5rem;
     padding-right: 1.5rem;

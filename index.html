@@ -6,7 +6,9 @@ isHome: true
 
 <div class="posts">
 	{% for post in paginator.posts %}
-        {% include preview.html post=post %}
+        {% if post.title != site.posts[0].title %}
+            {% include preview.html post=post %}
+        {% endif %}
 	{% endfor %}
 </div>
 
