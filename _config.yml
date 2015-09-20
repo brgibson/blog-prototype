@@ -12,6 +12,7 @@ paginate:            6
 paginate_path:       "/:num/"
 baseurl:             "/blog-prototype"
 baseimagesurl:       "/blog-prototype/public/images"
+excerpt_separator:   <!--end-featured-content-->
 
 # Assets
 #
