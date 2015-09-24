@@ -5,7 +5,7 @@
     padding: 0;
 
     .about-header {
-        background-color: #db3d2a;
+        background-color: #EA553C;
         color: white;
         padding: .5rem 1rem;
         margin: 0;
@@ -16,5 +16,9 @@
         padding: 1rem;
         font-size: 16px;
         text-align: justify;
+    }
+
+    .logo {
+        margin: -10px auto 0;
     }
 }
