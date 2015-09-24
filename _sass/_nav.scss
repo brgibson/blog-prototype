@@ -3,6 +3,20 @@
     border-bottom: 1px solid #336699;
     border-top: 1px solid #336699;
 
+    .blog-title,
+    .nav-link {
+        color: white;
+        display: inline-block;
+        padding: 0 1rem;
+        line-height: 2.5rem;
+    }
+    .blog-title {
+        color: white;
+        order: 2;
+        margin: 0;
+        text-align: right;
+    }
+
     .nav-link-container {
         border-right: 1px lightgrey solid;
         display: inline-block;
@@ -30,11 +44,5 @@
             position: absolute;
             width: 0;
         }
-    }
-
-    .nav-link {
-        color: white;
-        display: inline-block;
-        padding: .5rem 1.25rem;
     }
 }

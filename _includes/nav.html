@@ -9,21 +9,24 @@
 {% endif %}
 
 <nav class="nav">
-    <ul class="container">
-        <li class="nav-link-container">
-            {% capture href %}{{ site.baseurl }}/{% endcapture %}
-            {% include nav-link.html link_text='Newest' selected_link_text=selected_link_text href=href %}
+    <div class="flex-container">
+        <h1 class="blog-title">The Edmunds Tech Blog</h1>
+        <ul class="container">
+            <li class="nav-link-container">
+                {% capture href %}{{ site.baseurl }}/{% endcapture %}
+                {% include nav-link.html link_text='Newest' selected_link_text=selected_link_text href=href %}
 
-        </li><li class="nav-link-container">
-            {% capture href %}{{ site.baseurl }}/tag/front-end/{% endcapture %}
-            {% include nav-link.html link_text='Front End' selected_link_text=selected_link_text href=href %}
-        </li><li class="nav-link-container">
-            {% capture href %}{{ site.baseurl }}/tag/tips-and-tricks/{% endcapture %}
-            {% include nav-link.html link_text='Tips & Tricks' selected_link_text=selected_link_text href=href %}
+            </li><li class="nav-link-container">
+                {% capture href %}{{ site.baseurl }}/tag/front-end/{% endcapture %}
+                {% include nav-link.html link_text='Front End' selected_link_text=selected_link_text href=href %}
+            </li><li class="nav-link-container">
+                {% capture href %}{{ site.baseurl }}/tag/tips-and-tricks/{% endcapture %}
+                {% include nav-link.html link_text='Tips & Tricks' selected_link_text=selected_link_text href=href %}
 
-        </li><li class="nav-link-container">
-            {% capture href %}{{ site.baseurl }}/tag/reflections/{% endcapture %}
-            {% include nav-link.html link_text='Reflections' selected_link_text=selected_link_text href=href %}
-        </li>
-    </ul>
+            </li><li class="nav-link-container">
+                {% capture href %}{{ site.baseurl }}/tag/reflections/{% endcapture %}
+                {% include nav-link.html link_text='Reflections' selected_link_text=selected_link_text href=href %}
+            </li>
+        </ul>
+    </div>
 </nav>
