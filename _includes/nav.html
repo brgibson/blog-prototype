@@ -10,19 +10,18 @@
 
 <nav class="nav">
     <div class="flex-container">
-        <h1 class="blog-title">The Edmunds Tech Blog</h1>
-        <ul class="container">
+        <h1 class="blog-title">EDMUNDS TECHNOLOGY</h1>
+
+        <ul class="nav-container">
             <li class="nav-link-container">
                 {% capture href %}{{ site.baseurl }}/{% endcapture %}
                 {% include nav-link.html link_text='Newest' selected_link_text=selected_link_text href=href %}
-
             </li><li class="nav-link-container">
                 {% capture href %}{{ site.baseurl }}/tag/front-end/{% endcapture %}
                 {% include nav-link.html link_text='Front End' selected_link_text=selected_link_text href=href %}
             </li><li class="nav-link-container">
                 {% capture href %}{{ site.baseurl }}/tag/tips-and-tricks/{% endcapture %}
                 {% include nav-link.html link_text='Tips & Tricks' selected_link_text=selected_link_text href=href %}
-
             </li><li class="nav-link-container">
                 {% capture href %}{{ site.baseurl }}/tag/reflections/{% endcapture %}
                 {% include nav-link.html link_text='Reflections' selected_link_text=selected_link_text href=href %}

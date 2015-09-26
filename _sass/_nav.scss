@@ -8,13 +8,24 @@
         color: white;
         display: inline-block;
         padding: 0 1rem;
-        line-height: 2.5rem;
+        line-height: 4rem;
+        letter-spacing: .25rem;
+        font-size: .8rem;
     }
+
     .blog-title {
         color: white;
         order: 2;
         margin: 0;
         text-align: right;
+        letter-spacing: .2rem;
+        font-size: 1.75rem;
+    }
+
+    .nav-container {
+        flex: 1;
+        margin-left: 0;
+        padding-left: 0;
     }
 
     .nav-link-container {
