@@ -1,0 +1,12 @@
+{% capture post_url_full %}{{ site.url }}{{ include.post.url }}{% endcapture %}
+<ul class="social-buttons">
+    <li class="facebook item">
+        <a class="link no-underline i-facebook" href="https://www.facebook.com/sharer/sharer.php?u={{post_url_full}}" title="Share on Facebook"><span class="label">Like</span></a>
+    </li>
+    <li class="twitter item">
+        <a class="link no-underline i-twitter" href="https://twitter.com/intent/tweet?text={{post_url_full}}" title="Share on Twitter"><span class="label">Tweet</span></a>
+    </li>
+    <li class="googleplus item">
+        <a class="link no-underline i-gplus" href="https://plus.google.com/share?url={{post_url_full}}" title="Share on Google Plus"><span class="label">+1</span></a>
+    </li>
+</ul>

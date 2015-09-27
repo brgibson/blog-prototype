@@ -19,11 +19,8 @@
             <a class="category icon {{primary_tag_class}}" href="{{ site.baseurl }}/tag/{{ primary_tag_class }}">{{ primary_tag }}</a>
             <time class="post-date" datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date_to_string }}</time>
         </div>
-        <div>
-            {% include social-buttons/twitter.html post_url=post_url %}
-            {% include social-buttons/facebook.html post_url=post_url %}
-            {% include social-buttons/google-plus.html post_url=post_url %}
-            {% include social-buttons/pinterest.html post_url=post_url %}
+        <div class="social-buttons">
+            {% include social-buttons/social-buttons.html post_url=post_url_full %}
         </div>
     </div>
 </article>
