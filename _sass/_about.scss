@@ -1,12 +1,13 @@
 .about {
-    border: 1px solid #ccc;
-    border-radius: .5rem;
+    border: 1px solid #336699;
+    border-radius: .15rem;
     overflow: hidden;
     padding: 0;
 
     .about-header {
-        background-color: #EA553C;
-        color: white;
+        background-color: white;
+        border-bottom: 1px solid #336699;
+        color: #336699;
         padding: .5rem 1rem;
         margin: 0;
         font-size: 18px;

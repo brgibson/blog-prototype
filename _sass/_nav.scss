@@ -1,11 +1,14 @@
 .nav {
     background: #336699;
+    background: white;
     border-bottom: 1px solid #336699;
-    border-top: 1px solid #336699;
+//    border-top: 1px solid #336699;
+//    background: linear-gradient(#efedee 50%,#e3e3e3 50%);
 
     .blog-title,
     .nav-link {
         color: white;
+        color: #336699;
         display: inline-block;
         padding: 0 1rem;
         line-height: 4rem;
@@ -14,7 +17,6 @@
     }
 
     .blog-title {
-        color: white;
         order: 2;
         margin: 0;
         text-align: right;
@@ -29,7 +31,7 @@
     }
 
     .nav-link-container {
-        border-right: 1px lightgrey solid;
+        border-right: 1px #9FB8CF solid;
         display: inline-block;
         font-weight: 400;
         position: relative;
@@ -40,14 +42,14 @@
 
         &:hover .nav-link,
         .selected {
-            color: lightgrey;
+            color: #9FB8CF;
         }
         .tagged:after,
         .selected:after {
             border-left: .5rem solid transparent;
             border-right: .5rem solid transparent;
             border-top: .5rem solid #336699;
-            bottom: -.5rem;
+            bottom: -.55rem;
             content: '';
             display: inline-block;
             height: 0;
