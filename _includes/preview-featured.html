@@ -18,9 +18,9 @@
         <div>
             <a class="category icon {{primary_tag_class}}" href="{{ site.baseurl }}/tag/{{ primary_tag_class }}">{{ primary_tag }}</a>
             <time class="post-date" datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date_to_string }}</time>
-        </div>
-        <div>
-            {% include social-buttons/social-buttons.html post_url=post_url_full %}
+            <div class="social-container">
+                {% include social-buttons/social-buttons.html post_url=post_url_full %}
+            </div>
         </div>
     </div>
 </article>
