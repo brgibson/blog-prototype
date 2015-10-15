@@ -1,11 +1,11 @@
 {% if page.isHome %}
     {% assign selected_link_text = 'Newest' %}
-{% elsif page.tag == 'Front End' %}
-    {% assign selected_link_text = 'Front End' %}
-{% elsif page.tag == 'Tips & Tricks' %}
-    {% assign selected_link_text = 'Tips & Tricks' %}
-{% elsif page.tag == 'Reflections' %}
-    {% assign selected_link_text = 'Reflections' %}
+{% elsif page.tag == 'Big Data' %}
+    {% assign selected_link_text = 'Big Data' %}
+{% elsif page.tag == 'Lessons Learned' %}
+    {% assign selected_link_text = 'Lessons Learned' %}
+{% elsif page.tag == 'All Things Tech' %}
+    {% assign selected_link_text = 'All Things Tech' %}
 {% endif %}
 
 <nav class="nav">
@@ -17,14 +17,14 @@
                 {% capture href %}{{ site.baseurl }}/{% endcapture %}
                 {% include nav-link.html link_text='Newest' selected_link_text=selected_link_text href=href %}
             </li><li class="nav-link-container">
-                {% capture href %}{{ site.baseurl }}/tag/front-end/{% endcapture %}
-                {% include nav-link.html link_text='Front End' selected_link_text=selected_link_text href=href %}
+                {% capture href %}{{ site.baseurl }}/tag/all-things-tech/{% endcapture %}
+                {% include nav-link.html link_text='All Things Tech' selected_link_text=selected_link_text href=href %}
             </li><li class="nav-link-container">
-                {% capture href %}{{ site.baseurl }}/tag/tips-and-tricks/{% endcapture %}
-                {% include nav-link.html link_text='Tips & Tricks' selected_link_text=selected_link_text href=href %}
+                {% capture href %}{{ site.baseurl }}/tag/big-data/{% endcapture %}
+                {% include nav-link.html link_text='Big Data' selected_link_text=selected_link_text href=href %}
             </li><li class="nav-link-container">
-                {% capture href %}{{ site.baseurl }}/tag/reflections/{% endcapture %}
-                {% include nav-link.html link_text='Reflections' selected_link_text=selected_link_text href=href %}
+                {% capture href %}{{ site.baseurl }}/tag/lessons-learned/{% endcapture %}
+                {% include nav-link.html link_text='Lessons Learned' selected_link_text=selected_link_text href=href %}
             </li>
         </ul>
     </div>

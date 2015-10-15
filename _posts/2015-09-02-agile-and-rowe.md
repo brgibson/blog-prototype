@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agile and ROWE?
-tags: [Reflections, Agile, ROWE]
+tags: [Lessons Learned, Reflections, Agile, ROWE]
 summary: This is a sweet summary!  You definately want to read this article... It's written by smart people.
 image: http://1.bp.blogspot.com/-IiX-wnmpd3o/VddymZeIGnI/AAAAAAAACOs/2PgO4FsMS-w/s1600/Shawn.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [Front End, Tips & Tricks, Reflections]
+tags: [Lessons Learned, Front End, Tips & Tricks, Reflections]
 title: What's Jekyll?
 image: http://1.bp.blogspot.com/-IiX-wnmpd3o/VddymZeIGnI/AAAAAAAACOs/2PgO4FsMS-w/s1600/Shawn.jpg
 ---

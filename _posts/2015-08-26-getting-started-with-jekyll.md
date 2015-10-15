@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started with Jekyll
-tags: [Front End, github, github-pages, jekyll]
+tags: [All Things Tech, Front End, github, github-pages, jekyll]
 summary: Here are the most helpful links for understanding the open source Jekyll blogging framework.  This new blogging framework has built in integration with github pages and is great for generating static sites.
 image: http://4.bp.blogspot.com/-1ApahgMBJVE/Vba02LAZwRI/AAAAAAAACMc/JpUx0KKrvVE/s1600/Screen%2BShot%2B2015-07-27%2Bat%2B3.42.44%2BPM.png
 ---

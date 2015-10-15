@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Example content
-tags: [Tips & Tricks]
+tags: [Lessons Learned, Tips & Tricks]
+image: http://1.bp.blogspot.com/-IiX-wnmpd3o/VddymZeIGnI/AAAAAAAACOs/2PgO4FsMS-w/s1600/Shawn.jpg
 ---
 
 

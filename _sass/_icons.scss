@@ -14,6 +14,27 @@
         margin-right: .4rem;
         font-size: 1.75rem;
     }
+    &.all-things-tech:before {
+        font-family: 'fontello';
+        font-size: 1rem;
+//        content: '\e852'; //glasses
+        content: '\e82c'; //code tags </>
+    }
+    &.big-data:before {
+        font-family: 'fontello';
+        font-size: 1rem;
+        content: '\e835'; //chart-area
+    }
+    &.reflections:before {
+        content: '\2696'; //SCALES
+        vertical-align: text-bottom;
+    }
+    &.lessons-learned:before {
+        font-family: 'fontello';
+        font-size: 1rem;
+//        content: '\e831'; //paper airplane
+        content: '\e849'; //graduation cap
+    }
     &.front-end {
         padding-bottom: 3px;
         &:before {
