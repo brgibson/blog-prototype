@@ -23,4 +23,11 @@
     .logo {
         margin: -10px auto 0;
     }
+
+    @media (max-width: $breakpoint-medium) {
+        .logo {
+            display: none;
+        }
+    }
+
 }
