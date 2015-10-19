@@ -83,3 +83,11 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+.offscreen {
+    visibility: hidden;
+    opacity: 0;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    position: absolute;
+}

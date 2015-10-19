@@ -1,9 +1,9 @@
 {% if include.selected_link_text == include.link_text %}
     <span class="nav-link selected">
-        {{ include.link_text }}
+        <span class="{{ include.link_class }} icon"></span><span class="nav-link-text">{{ include.link_text }}</span>
     </span>
 {% else %}
     <a class="nav-link no-underline {% if page.tags[0] == include.link_text %} tagged {% endif %}" href="{{ include.href }}">
-        {{ include.link_text }}
+        <span class="{{ include.link_class }} icon"></span><span class="nav-link-text">{{ include.link_text }}</span>
     </a>
 {% endif %}
