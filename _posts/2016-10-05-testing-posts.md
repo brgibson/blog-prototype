@@ -1,15 +1,20 @@
 ---
 layout: post
 title: The Testing of Draft Posts
-tags: [Lessons Learned]
+tags: [Lessons Learned,]
+
 image: http://4.bp.blogspot.com/-1ApahgMBJVE/Vba02LAZwRI/AAAAAAAACMc/JpUx0KKrvVE/s1600/Screen%2BShot%2B2015-07-27%2Bat%2B3.42.44%2BPM.png
+
 summary: This is a draft of a post.  Let's see how it goes.  I'm glad that I can write things here.  Let's see what happens.
+
 featured-summary: <p>This is a draft of a post.  Let's see how it goes.  I'm glad that I can write things here.  Let's see what happens.  We might have to make the featured summary longer.  It just depends on how much text actually fits there.</p> <p>Let's add a second paragraph so it makes it more intesreting.  Techinicall this thing is a bout lorem ipsum...</p><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting...</p>
 ---
 
-## What is Lorem Ipsum
+<h2>What is Lorem Ipsum</h2>
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+<img src="http://4.bp.blogspot.com/-1ApahgMBJVE/Vba02LAZwRI/AAAAAAAACMc/JpUx0KKrvVE/s1600/Screen%2BShot%2B2015-07-27%2Bat%2B3.42.44%2BPM.png"/>
 
 ## Establishing It
 
