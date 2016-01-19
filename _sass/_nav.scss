@@ -4,6 +4,10 @@
     background: white;
     border-bottom: 1px solid #336699;
 
+    .flex-container {
+        flex-flow: row nowrap;
+    }
+
     .menu-collapsed {
         display: none;
     }
@@ -30,6 +34,8 @@
         text-align: right;
         letter-spacing: .2rem;
         font-size: 1.75rem;
+        overflow: hidden;
+        white-space: nowrap;
     }
 
     .nav-container {
@@ -112,6 +118,12 @@
                 }
             }
             display: inherit;
+        }
+    }
+
+    @media (max-width: $breakpoint-small) {
+        .nology {
+            display: none;
         }
     }
 }
