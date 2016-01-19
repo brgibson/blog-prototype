@@ -1,15 +1,7 @@
 .post-preview {
-    .social-container {
-        display: inline-block;
-        float: right;
-        text-align: right;
-        vertical-align: middle;
-    }
-    .preview-text {
-        &.featured {
-            p:last-of-type {
-                display: inline;
-            }
+    .preview-text.featured {
+        p:last-of-type {
+            display: inline;
         }
     }
 }
