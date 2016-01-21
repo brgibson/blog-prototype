@@ -2,7 +2,7 @@
 layout: post
 title: An IT Director’s Perspective on Troubleshooting
 tags: [Lessons Learned]
-image: "{{site.baseimagesurl}}/Mike-pic.jpg"
+image: /blog-prototype/public/images/Mike-pic.jpg
 
 featured-summary:
     <p>I am a big advocate of keeping things as simple as necessary.  The old abbreviated adage, KISS (Keep it Simple, Stupid), still beats like a drum in my head after all these years managing and administering systems.</p>
