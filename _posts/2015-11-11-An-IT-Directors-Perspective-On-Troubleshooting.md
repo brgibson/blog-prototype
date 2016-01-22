@@ -27,7 +27,7 @@ Most issues in technology are not so cut and dry, and the path to resolution inv
 
 My goal was to catch (and release) fish, and in the end I was successful because my flexible approach turned out to be not so complicated.
 
-<img src=“{{site.baseimagesurl}}/Mike-pic.jpg”/> 
+<img src="{{site.baseimagesurl}}/Mike-pic.jpg"/> 
 
 Mike Rasmussen is Director of Information Systems.  He has been at Edmunds for 9 years and in the IT industry for 20 years. His current projects include overseeing the Edmunds upcoming office move, including the selection of a new corporate phone system and finding a corporate storage solution.
 
