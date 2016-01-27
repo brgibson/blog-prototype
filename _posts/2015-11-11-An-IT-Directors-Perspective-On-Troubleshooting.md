@@ -4,6 +4,11 @@ title: An IT Director’s Perspective on Troubleshooting
 tags: [Lessons Learned]
 image: /blog-prototype/public/images/Mike-pic.jpg
 
+bio: Mike Rasmussen is Director of Information Systems.  He has been at Edmunds for 9 years and in the IT industry for 20 years. His current projects include overseeing
+ the Edmunds upcoming office move, including the selection of a new corporate phone system and finding a corporate storage solution.
+ 
+bioImage: Mike-pic.jpg
+
 featured-summary:
     <p>I am a big advocate of keeping things as simple as necessary.  The old abbreviated adage, KISS (Keep it Simple, Stupid), still beats like a drum in my head after all these years managing and administering systems.</p>
 
@@ -26,14 +31,4 @@ Over the course of my career in technology, I have faced many similar knots. Whe
 Most issues in technology are not so cut and dry, and the path to resolution involves more than one fork.  The key here is that when dealing with challenges (whether it be writing code, analyzing network protocols, or untying knots in my fishing line), it is important to remain flexible.  At some point during your analysis of the issue, being flexible affords you the ability to gain the presence of mind to know which fork in the road to take.  If you determine that working out the complication is the best path for your problem, start by attempting to resolve the issue in "bite-sized chunks."  For me this meant finding the end of my fishing line and painstakingly working it in reverse through all the twists and turns until the line was free.  It is a slow and meticulous process that can preserve the resources you have already spent.  And on the flip-side, if you determine it is more appropriate to start from scratch, don't forget to factor in the resource investment that has already been committed. 
 
 My goal was to catch (and release) fish, and in the end I was successful because my flexible approach turned out to be not so complicated.
-
-<p>
-	<img src="{{site.baseimagesurl}}/Mike-pic.jpg" style="float: left;margin-right: 1em;"/>
-
-	<i style="font-size:.75rem">
- 	Mike Rasmussen is Director of Information Systems.  He has been at Edmunds for 9 years and in the IT industry for 20 years. His current projects include overseeing the Edmunds upcoming office move, including the selection of a new corporate phone system and finding a corporate storage solution.
- 	</i>
- 
- 
-</p>
 
