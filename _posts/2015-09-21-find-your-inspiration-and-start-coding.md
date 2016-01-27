@@ -11,6 +11,10 @@ featured-summary:
 
     <p>As a kid, I would spend most of my days playing video games, not really caring what anyone else was doing or what was going on in the world around me. In addition to being a sort of lackluster way to live, this lifestyle also prevented me from getting exposure to an entire world of problems (not necessarily a bad thing), which in turn prevented me from ever getting inspired to solve said problems.</p>
 
+bio: Matthew Nease was hired by Edmunds.com straight out of UC Irvine, where he graduated in Computer Science and Engineering. He is currently working on the advertising technology team to automate and optimize our SEM campaign spending. He keeps an active lifestyle, primarily through sports (bubble soccer, volleyball, football, tennis, disc golf) and dancing (swing, country line dancing, salsa).  He also enjoys board games, spending time with family, and just about any other activity you can think of.
+
+bioImage: Matt-Nease-bio-pic.png
+
 ---
 
 Technologists have the power to impact nearly everyone’s lives. The problem is, it’s not always easy to relate to those unfamiliar with or living outside the realm of technology, but it is important to try.
@@ -44,14 +48,8 @@ The moral of the story is, don’t get so caught up in the day-to-day of your ow
 Find your inspiration.  Get out there.
 
 <img src="https://lh6.googleusercontent.com/OIzp-cfdjVqxYaoWF_7d0dylt2QJDG3e-UxJ1lftlILqSx2cfewCzDkOfX6saanmbPOMML7RHf5Ldi9ClNXK6v08TgoISz7qomPqB4bwev6iC2y5vFDv7MHT6ib7g6qlTQ=s1600"/>
+    
 
-Author: Matthew Nease
-Editors: Gina Shaw, Kelly Stacy, Heather Tipple Yang
-
-<div>
-<img style="float:left" src="http://1.bp.blogspot.com/-uWbXH3Lt9Ug/Vfn-aIrD3lI/AAAAAAAACTQ/M2FVNs56RII/s1600/Matt.png">    
-_Matthew Nease was hired by Edmunds.com straight out of UC Irvine, where he graduated in Computer Science and Engineering. He is currently working on the advertising technology team to automate and optimize our SEM campaign spending. He keeps an active lifestyle, primarily through sports (bubble soccer, volleyball, football, tennis, disc golf) and dancing (swing, country line dancing, salsa).  He also enjoys board games, spending time with family, and just about any other activity you can think of._
-</div>
 
 
 
