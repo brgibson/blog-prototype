@@ -5,7 +5,7 @@ tags: [Lessons Learned, Agile, ROWE]
 image: http://1.bp.blogspot.com/-IiX-wnmpd3o/VddymZeIGnI/AAAAAAAACOs/2PgO4FsMS-w/s1600/Shawn.jpg
 summary: It has been almost seven years since I started working at Edmunds.com and the last 18 months of it was spent doing Project Management. One of the unique responsibilities as an Edmunds’ project manager was to be...
 bio: Shawn Kim has been driving with Edmunds for more than six years, originally as a data developer, then as a technical project manager. He enjoys various outdoor activities including snowboarding, surfing, biking, and golfing. He works on many different areas of the organization as an Agile coach, innovation manager, and PMO strategist.
-bioImage:
+biopic: Shawn-Kim-bio-pic.jpg
 ---
 
 It has been almost seven years since I started working at Edmunds.com and the last 18 months of it was spent doing Project Management. One of the unique responsibilities as an Edmunds’ project manager was to be a consulting Agile coach. This meant that my team and I coached Agile software development in both Scrum/Kanban format for development teams that were struggling to manage their workload, teams that just need a few pointers, and everything else in between. Since the adoption, we’ve iterated our way to success, and made it ours by becoming truly Agile.
