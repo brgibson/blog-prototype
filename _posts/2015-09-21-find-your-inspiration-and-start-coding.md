@@ -13,7 +13,7 @@ featured-summary:
 
 bio: Matthew Nease was hired by Edmunds.com straight out of UC Irvine, where he graduated in Computer Science and Engineering. He is currently working on the advertising technology team to automate and optimize our SEM campaign spending. He keeps an active lifestyle, primarily through sports (bubble soccer, volleyball, football, tennis, disc golf) and dancing (swing, country line dancing, salsa).  He also enjoys board games, spending time with family, and just about any other activity you can think of.
 
-bioPic: Matt-Nease-bio-pic.png
+biopic: Matt-Nease-bio-pic.png
 
 ---
 

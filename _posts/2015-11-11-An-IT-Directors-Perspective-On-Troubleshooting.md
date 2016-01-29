@@ -7,7 +7,7 @@ image: /blog-prototype/public/images/Mike-pic.jpg
 bio: Mike Rasmussen is Director of Information Systems.  He has been at Edmunds for 9 years and in the IT industry for 20 years. His current projects include overseeing
  the Edmunds upcoming office move, including the selection of a new corporate phone system and finding a corporate storage solution.
  
-bioPic: Mike-pic.jpg
+biopic: Mike-pic.jpg
 
 featured-summary:
     <p>I am a big advocate of keeping things as simple as necessary.  The old abbreviated adage, KISS (Keep it Simple, Stupid), still beats like a drum in my head after all these years managing and administering systems.</p>
