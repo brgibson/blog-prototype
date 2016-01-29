@@ -9,10 +9,10 @@ layout: default
 
     <p class="clearfix">
         {% if page.biopic %}
-            <img src="{{site.baseimagesurl}}/{{page.biopic}}" style="float: left;margin-right: 1em;"/>
+            <img src="{{site.baseimagesurl}}/{{page.biopic}}" style="float: left;margin-right: 1em;max-width:12em;max-height:15em;"/>
         {% endif %}
 
-        {% if site.bio %}
+        {% if page.bio %}
             <i style="font-size:.75rem">
                 {{ page.bio }}
             </i>

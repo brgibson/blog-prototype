@@ -16,60 +16,55 @@ Agile was already deeply integrated into Edmunds project culture when leadership
 
 ROWE and Agile development by definition have a few contradicting principles:
 
+<div style="font-style:italic;">
+    <p style="margin-left:1rem">
+    Agile: The most effective form of communication is face-to-face.<br/>
+    ROWE: Work wherever and whenever you want.
+    </p>
+    
+    <p style="margin-left:1rem">
+    Agile: Business people and developers must work together daily throughout the project.<br/>
+    ROWE: Work wherever and whenever you want.
+    </p>
+    
+    <p style="margin-left:1rem">
+    Agile: At regular intervals the team reflects on how to become more effective then tunes and adjusts the behavior accordingly.<br/>
+    ROWE: Work wherever and whenever you want.
+    </p>
+</div>
 
-Agile: The most effective form of communication is face-to-face.
-ROWE: Work wherever and whenever you want.
-
-
-Agile: Business people and developers must work together daily throughout the project.
-ROWE: Work wherever and whenever you want.
-
-
-Agile: At regular intervals the team reflects on how to become more effective then tunes and adjusts the behavior accordingly.
-ROWE: Work wherever and whenever you want.
-
+<p></p>
 
 While the comparison of principles are meant to be (somewhat) humorous, there is a superficial theme that emerges: 
 
 
-Agile methodology encourages teamwork, while ROWE would seem to emphasize individual results.
+> Agile methodology encourages teamwork, while ROWE would seem to emphasize individual results.
 
 
 What is often missed in the ROWE strategy, is the “R” for “Results”. I have seen time and time again where folks in the team won’t see eye-to-eye on what it means to deliver results. There are principles in ROWE like “all meetings are optional”, that make a lot of folks forget about results. While it may seem like this is not going to work out, the main point - when understood correctly - makes it all come together:
 
 
-“We win and lose as a team”
+> “We win and lose as a team”
 
 
 The principles in ROWE, while it may seem so, never encourages individualism. ROWE, in textbook terms, is an environment in which the emphasis is on the actual work done. How or when that work is accomplished is less important (source WhatIs.com). It makes perfect sense in an Agile community as long as we understand the aforementioned point. Yes, this requires some bending of the principles, but Agile - like the name - requires us to adapt quickly to any given situation. While these two working styles may seem counter-productive, both cultures will encourage you to be:
 
 
-Proactive - take ownership of your own work
-An adult - gives you responsibility and holds you accountable
-Communicative - requires you to actually talk to your teammates
+1. Proactive - take ownership of your own work
+2. An adult - gives you responsibility and holds you accountable
+3. Communicative - requires you to actually talk to your teammates
 
 
 Below are some of the guidelines for ROWE principles and how we made it work for us
 
 
-ROWE principles
-Edmunds guidelines
-People at all levels stop doing any activity that is a waste of their time, the customer’s time, or the company’s time
-Think about your actions and assess whether or not this is something that will benefit the company and/or your personal development
-Employees have the freedom to work any way they want
-Don’t work only when it’s convenient for you. Work together, win together
-Work isn’t a place you go, it’s something you do.
-“R” in ROWE is for “Results”, not “Remote”. If it’s proven that being in the office to achieve best results, you should be there when necessary
-Every meeting is optional
-Think about whether or not attending a meeting will help you drive results, and make the right choice
-There are no work schedules
-Be an adult about when you work. Communicate, collaborate, participate.
-No judgement on how you spend your time
-Let others know that you will be unreachable, and have a backup plan for time-sensitive issues
+| ROWE principles | Edmunds guidelines |
+| ------ | ----------- |
+| People at all levels stop doing any activity that is a waste of their time, the customer’s time, or the company’s time   | Think about your actions and assess whether or not this is something that will benefit the company and/or your personal development |
+| Employees have the freedom to work any way they want | Don’t work only when it’s convenient for you. Work together, win together |
+| Work isn’t a place you go, it’s something you do. | “R” in ROWE is for “Results”, not “Remote”. If it’s proven that being in the office to achieve best results, you should be there when necessary |
+| Every meeting is optional | Think about whether or not attending a meeting will help you drive results, and make the right choice |
+| There are no work schedules | Be an adult about when you work. Communicate, collaborate, participate. |
+| No judgement on how you spend your time | Let others know that you will be unreachable, and have a backup plan for time-sensitive issues |
 
  We iterated again and again in short intervals until we got it right. Being in a constant “beta” stage made us work out our differences and built even more trust in the team. We saw people happily sacrificing their own time for the greater good of the team. These good deeds were reciprocated with gratitude and trust, not a continued increase in workload. Much of our petty arguments or debates to posture and prove “rightness” fell to the wayside in the collective interest of achieving the expected result because we truly valued this freedom. We achieved success by understanding and fully embracing the true purpose of each culture. This gave us a whole new meaning to agility in being Agile. Most importantly, we understood our own environment and made Agile + ROWE something unique to Edmunds through great cohesion and teamwork. 
-
-Author: Shawn Kim
-Editors: Gina Shaw, Kelly Stacy, Heather Tipple Yang
-
-

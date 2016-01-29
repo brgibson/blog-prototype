@@ -28,6 +28,11 @@
       margin-bottom: .5rem;
       color: #9a9a9a;
     }
+    ul, ol, dl {
+        list-style: initial;
+        padding-left: 2em;
+        margin-bottom: 1rem;
+    }
 }
 
 
