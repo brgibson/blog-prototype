@@ -40,7 +40,7 @@ People started using them to reward others for the little things that never get 
 
 <h2 class="question-heading">Other Benefits</h2>
 For me, microbonuses have two surprising benefits:
-<ol> start="1">
+<ol>
   <li>I feel less guilty about "bothering" people.</li>
   <li>I feel encouraged to go above and beyond for the people I work with.</li>
 </ol>
