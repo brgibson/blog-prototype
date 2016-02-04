@@ -7,7 +7,7 @@ image: /blog-prototype/public/images/Ben-Gibson-pic.png
 bio: Ben Gibson has been at Edmunds for one year working as a Front End Engineer.  He is currently working on a User Generated Content project that aims to improve user experience submitting reviews for consumers, auto repair services, and dealerships.  In his spare time he enjoys recording music and traveling with his wife.
  
 #this can be a jpg/png/gif or any other image type format#
-biopic: /blog-prototype/public/images/Ben-Gibson-pic.png
+biopic: Ben-Gibson-pic.png
 
 featured-summary:
     <p>During the last year, we started a microbonus program. I was skeptical at first, but surprisingly, receiving microbonuses has increased my happiness at work and helped break down barriers between team-members.</p>
