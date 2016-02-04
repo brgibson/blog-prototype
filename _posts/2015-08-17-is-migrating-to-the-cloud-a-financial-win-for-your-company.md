@@ -16,10 +16,10 @@ summary: We will save 70% by migrating to the cloud.  There, we said it.  Every 
 
 ---
 
-What steps are involved in preparing to migrate to the cloud? 
+<b>What steps are involved in preparing to migrate to the cloud?</b>
 A prerequisite to any automation effort is to ensure the underlying processes are sound and sustainable.  Poor choices compound quickly in the cloud.  Many of Edmunds’ applications had to be refactored in order to operate in the cloud.  We took advantage of this work to scrutinize our existing technology stack, down to the OS and database level and questioned whether our choices were extendable to the cloud.  We pursued open source alternatives where practical, and carefully vetted any commercial software to ensure portability and sustainability.
 
-What are some things to keep in mind before migrating to the cloud?
+## What are some things to keep in mind before migrating to the cloud?
 Find the bodies that are buried in your data center.  When contemplating a migration to the cloud, take the time to accurately assess your current data center costs.  If you are taking an “all-in” approach, as Edmunds did, this exercise is fairly straightforward.  If not, your challenge is to find an accurate method of allocating your data center costs to the applications you will be migrating.  Work closely with your finance team to help develop this cost allocation, but don’t cede the responsibility to them.  Allocations based on revenue or other business metrics will lead you to false conclusions.  It is important that you identify a method to allocate your data center costs by compute resources.
 
 I have also seen models where data center costs are derived from typical server configurations, which are projected across business segments.  This doesn’t take into account failed configurations, memory upgrades, and the slick new PDUs that your data center manager had to have.
