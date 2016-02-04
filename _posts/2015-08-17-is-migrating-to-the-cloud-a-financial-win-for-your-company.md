@@ -15,6 +15,11 @@ featured-summary:
 summary: We will save 70% by migrating to the cloud.  There, we said it.  Every post or article on public cloud migration experiences seems to contradict the one I just read. 
 
 ---
+We will save 70% by migrating to the cloud.
+
+There, we said it.  Every post or article on public cloud migration experiences seems to contradict the one I just read.  For every company that claims to have saved money by switching to the cloud, there is another that just moved back to on-premise for the very same reason.  What gives?
+
+For background, Edmunds is a privately-held, profitable and growing company.  As 100% of Edmunds’ revenue is derived online, uptime and performance of the website is critical.  We have operated from co-located data centers for 10 years and have lived through multiple build-outs, so we know what it takes to build and run a data center both operationally and financially. 
 
 <img src="{{site.baseimagesurl}}/migration-to-the-cloud-graphic.png" />
 
