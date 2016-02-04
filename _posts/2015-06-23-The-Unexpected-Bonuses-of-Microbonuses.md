@@ -41,8 +41,8 @@ People started using them to reward others for the little things that never get 
 <h2 class="question-heading">Other Benefits</h2>
 For me, microbonuses have two surprising benefits:
 <ol>
-<li>1. I feel less guilty about "bothering" people.</li>
-<li>2. I feel encouraged to go above and beyond for the people I work with.</li>
+<li>I feel less guilty about "bothering" people.</li>
+<li>I feel encouraged to go above and beyond for the people I work with.</li>
 </ol>
 
 Now, when I end up taking 20 minutes of someone's time with what I thought would be a 30-second question, I am less likely to feel guilty about it. I know I can thank them for their help in a forum that is visible to everyone and has a monetary reward.
@@ -52,6 +52,9 @@ Also, because of the incentive of receiving a microbonus, I find myself wanting 
 
 <h2 class="question-heading">It's not just about the money</h2>
 The nice thing about microbonuses is that they're not just about the money (although that doesn't hurt). I get the most pleasure out of being recognized for all the little things that I do for my co-workers on a daily basis. It's nice to know that someone appreciated the 15 minutes I spent helping them, and it makes me feel like they enjoy working with me. And in my opinion, there's nothing like feeling appreciated.
+
+
+
 
 
 
