@@ -68,3 +68,11 @@ You don't have to stop at trivial tests either.  Why not go farther and implemen
 
 Think of self-governing code as the logical extension of self-documenting code.  Use automated tests whenever possible, and make sure you have tests for any "standards" you put in place.
 
+<p class="clearfix">
+        <img src="{{site.baseimagesurl}}/Carlos-Ruiz-bio-pic.png" style="float: right;margin-left: 1em;max-width:12em;max-height:15em;"/>
+
+        <i style="font-size:.75rem">
+Carlos Ruiz was born and raised in Los Angeles and has rocked the Sr. Front End Engineer position at Edmunds.com for the past 5 years. He is currently working on a top secret Edmunds front-end project. Carlos loves all foods, but seafood, and drinks coffee only at Edmunds.
+        </i>
+</p>
+
