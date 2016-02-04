@@ -7,7 +7,7 @@ image: /blog-prototype/public/images/Ben-Gibson-pic.png
 bio: Ben Gibson has been at Edmunds for one year working as a Front End Engineer.  He is currently working on a User Generated Content project that aims to improve user experience submitting reviews for consumers, auto repair services, and dealerships.  In his spare time he enjoys recording music and traveling with his wife.
  
 #this can be a jpg/png/gif or any other image type format#
-biopic: Ben-Gibson-pic.jpg
+biopic: /blog-prototype/public/images/Ben-Gibson-pic.png
 
 featured-summary:
     <p>During the last year, we started a microbonus program. I was skeptical at first, but surprisingly, receiving microbonuses has increased my happiness at work and helped break down barriers between team-members.</p>
@@ -40,8 +40,10 @@ People started using them to reward others for the little things that never get 
 
 <h2 class="question-heading">Other Benefits</h2>
 For me, microbonuses have two surprising benefits:
-1.  I feel less guilty about "bothering" people.
-2.  I feel encouraged to go above and beyond for the people I work with.
+<ol>
+<li>1. I feel less guilty about "bothering" people.</li>
+<li>2. I feel encouraged to go above and beyond for the people I work with.</li>
+</ol>
 
 Now, when I end up taking 20 minutes of someone's time with what I thought would be a 30-second question, I am less likely to feel guilty about it. I know I can thank them for their help in a forum that is visible to everyone and has a monetary reward.
 
