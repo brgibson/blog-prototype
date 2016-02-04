@@ -41,7 +41,6 @@ We are in the home stretch of our migration, and so far, so good.  We run 100% o
 
 We’d love to hear from others on how their experiences have been in migrating to the cloud.  
 
-
 Here's an example of inserting an image:
 
 <img src="{{site.baseimagesurl}}/edmunds-technology.png" />
