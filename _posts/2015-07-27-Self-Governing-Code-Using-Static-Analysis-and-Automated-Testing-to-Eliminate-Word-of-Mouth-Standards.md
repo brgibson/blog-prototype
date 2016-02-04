@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Creating A Template (Self-Governing Code: Using Static Analysis and Automated Testing to Eliminate Word-of-Mouth Standards)
-tags: [All Things Tech
+title: Self-Governing Code - Using Static Analysis and Automated Testing to Eliminate Word-of-Mouth Standards
+tags: [All Things Tech]
 image: /blog-prototype/public/images/Ben-Gibson-pic.png
 
 bio: Ben Gibson has been at Edmunds for one year working as a Front End Engineer. He is currently working on a User Generated Content project that aims to improve user experience submitting reviews for consumers, auto repair services, and dealerships. In his spare time he enjoys recording music and traveling with his wife.
@@ -67,40 +67,4 @@ These are some of the scenarios that we now catch with automated tests.
 You don't have to stop at trivial tests either.  Why not go farther and implement source lines of code validations (ie. "Your function/class can only X lines long")?  Or you can add cyclomatic complexity checks (ie. "You want me to read _that_ spaghetti code?").  We have recently added these tests to our front end code and it has made our lives and code much more beautiful.
 
 Think of self-governing code as the logical extension of self-documenting code.  Use automated tests whenever possible, and make sure you have tests for any "standards" you put in place.
-
-
-
-
-
-
-Here's a template table:
-
-| Things I like to Eat | Reasons Why |
-| ------ | ----------- |
-| Frozen Peas | I love frozen peas because they are refreshing and cold.  What a great summer snack! |
-| Fish Sticks are great too| I mean... they go well with frozen peas |
-| Peanut Butter and Jelly Sandwiches and other types of sandwiches | Who doesn't like sandwiches|
-| Frozen Peas | I mean come one.  Who doesn't like them?  Most people maybe... |
-
-Here's an example of a numbered list.
-
-1. Proactive - take ownership of your own work
-2. An adult - gives you responsibility and holds you accountable
-3. Communicative - requires you to actually talk to your teammates
-
-Here's an example of a blockquote:
-
-> This is a blockquote.  It's where you are quoting something and you want it to look like this.  So there it is.
-
-Here's an example of inserting an image:
-
-<img src="{{site.baseimagesurl}}/edmunds-technology.png" />
-
-Here's how you can do headers
-
-## Here's an H2
-### Here's an H3
-#### Here's an H4
-
-
 
