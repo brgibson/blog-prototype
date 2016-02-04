@@ -40,9 +40,9 @@ People started using them to reward others for the little things that never get 
 
 <h2 class="question-heading">Other Benefits</h2>
 For me, microbonuses have two surprising benefits:
-<ol>
-<li>I feel less guilty about "bothering" people.</li>
-<li>I feel encouraged to go above and beyond for the people I work with.</li>
+<ol> start="1">
+  <li>I feel less guilty about "bothering" people.</li>
+  <li>I feel encouraged to go above and beyond for the people I work with.</li>
 </ol>
 
 Now, when I end up taking 20 minutes of someone's time with what I thought would be a 30-second question, I am less likely to feel guilty about it. I know I can thank them for their help in a forum that is visible to everyone and has a monetary reward.
