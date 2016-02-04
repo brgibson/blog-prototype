@@ -68,6 +68,7 @@ You don't have to stop at trivial tests either.  Why not go farther and implemen
 
 Think of self-governing code as the logical extension of self-documenting code.  Use automated tests whenever possible, and make sure you have tests for any "standards" you put in place.
 
+
 <p class="clearfix">
         <img src="{{site.baseimagesurl}}/Carlos-Ruiz-bio-pic.png" style="float: right;margin-left: 1em;max-width:12em;max-height:15em;"/>
 
