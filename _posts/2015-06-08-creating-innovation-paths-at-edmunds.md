@@ -7,7 +7,7 @@ image: /blog-prototype/public/images/innovation-paths-at-edmunds-pic.png
 bio: Ismail Elshareef is Executive Director of Open Platforms.
  
 #this can be a jpg/png/gif or any other image type format#
-biopic: Ismail-bio-pic-png
+biopic: Ismail-bio-pic.png
 
 featured-summary:
     <p>Ismail Elshareef, Executive Director of Open Platforms, recently published an article regarding the history behind our innovative Hackomotive and Fastlane programs. Why does this matter? Well it got Edmunds.com on the World's Top 10 Most Innovative Companies of 2015 in Automotive list for starters. But we didn't create these innovation platforms for the recognition. We created these innovation paths to identify new ideas in the automotive marketplace to increase our success. To understand more about the trials and learnings from where we started in the innovation process to where we are now, read below.</p>
@@ -82,7 +82,7 @@ When we designed Fastlane, we deliberately made it different from other accelera
 
 > Fastlane was designed to be an all-access, no-strings-attached opportunity for automotive entrepreneurs to validate their product/market fit.
 
-/blog-prototype/public/images/why-fastlane-pic-png
+/blog-prototype/public/images/why-fastlane-pic.png
 
 Fastlane was also designed to give Edmunds the opportunity to share those great ideas with our customers and partners for feedback. Knowing what the market wants makes it easier to decide which ideas to invest in, acquire or part ways with.
 
