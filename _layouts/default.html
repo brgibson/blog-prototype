@@ -4,20 +4,21 @@
 	<body>
         {% include nav.html %}
 
+        {% if page.isHome and paginator.page == 1 %}
         <div class="flex-container">
-            {% if page.isHome and paginator.page == 1 %}
             <div class="featured">
                 {% assign featured_post = site.posts[0] %}
                 {% include preview-featured.html post=featured_post %}
             </div>
-            {% endif %}
+        </div>
+        {% endif %}
 
+        <div class="flex-container">
             <div class="container">
                 <main>
                     {{ content }}
                 </main>
             </div>
-
             <div class="secondary-container">
                 {% include about.html %}
                 {% include posts-by-date.html %}
