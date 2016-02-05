@@ -59,7 +59,7 @@ The event was a <u>success</u>. The objective was met.
 
 However, <i>everything ceased with the end of the event.</i> Sure, we announced three winners, there was press, happy hour was popular, but once the event was over, the participants driving those ideas went back home. Back to their lives.
 
-<b><i>Back to their jobs.</b></i>
+<i>Back to their jobs.</i>
 
 > Great ideas cannot survive without someone consistently driving them forward with vision, conviction and passion.
 
