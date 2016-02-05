@@ -22,7 +22,7 @@ Ismail Elshareef, Executive Director of Open Platforms, recently published an ar
 ##Annals of Open Innovation
 <i>How Edmunds.com Built a Framework to Discover, Accelerate and Scale Breakthrough Automotive Ideas</i>
 
-/blog-prototype/public/images/innovation-paths-at-edmunds-pic.png
+blog-prototype/public/images/innovation-paths-at-edmunds-pic-png
 
 Fast Company named Edmunds.com one of The World’s Top 10 Most Innovative Companies of 2015 in Automotive. It cited Hackomotive and the Fastlane Accelerator as two reasons why the company made the list. Aside from Edmunds, Apple, Tesla and Google, every company on that list was an automotive manufacturer like Toyota and GM.
 
@@ -82,7 +82,7 @@ When we designed Fastlane, we deliberately made it different from other accelera
 
 > Fastlane was designed to be an all-access, no-strings-attached opportunity for automotive entrepreneurs to validate their product/market fit.
 
-/blog-prototype/public/images/why-fastlane-pic.png
+/blog-prototype/public/images/why-fastlane-pic-png
 
 Fastlane was also designed to give Edmunds the opportunity to share those great ideas with our customers and partners for feedback. Knowing what the market wants makes it easier to decide which ideas to invest in, acquire or part ways with.
 
