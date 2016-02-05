@@ -26,12 +26,12 @@ Ismail Elshareef, Executive Director of Open Platforms, recently published an ar
 
 Fast Company named Edmunds.com one of The World’s Top 10 Most Innovative Companies of 2015 in Automotive. It cited Hackomotive and the Fastlane Accelerator as two reasons why the company made the list. Aside from Edmunds, Apple, Tesla and Google, every company on that list was an automotive manufacturer like Toyota and GM.
 
-To be recognized for something we’ve been so deliberate with and focused on is gratifying. Seeking out entreprenuers who are using our data to build great products, help them validate their product/market fit and then scaling them has proven to be a great strategy for us to leapfrog our product offerings, thus our growth.
+To be recognized for something we’ve been so deliberate with and focused on is gratifying. Seeking out entrepreneurs who are using our data to build great products, help them validate their product/market fit and then scaling them has proven to be a great strategy for us to leapfrog our product offerings, thus our growth.
 
 But that didn’t happen overnight. In fact, it took us four years to get where we’re at today.
 Let’s start from the very beginning.
 
-## An API Story
+##An API Story
 In September 2011, we launched our Open Platform with high hopes and no clear expectations. We had a hunch that opening the APIs that power our site and mobile app to the public would help spur innovation and expedite partnership integrations. We couldn’t really quantify the opportunity at the time, but we believed that one existed.
 
 With Mashery’s help, we were able to put the word out fast. Pretty quickly, we saw engagement from developers with strong vision for making our industry better. Some with grandiose ideas of disrupting the car dealerships and others with more strategic focus on consumer-facing products.
@@ -46,20 +46,20 @@ That’s a multi-million dollar opportunity for the company, and a great payday 
 
 Home run. <i>We got lucky.</i>
 
-But even with 10,000+ developers on our network today, we never saw that type of organic breakout success again. There’s a ton of great potentials, but no clear standouts.
+But even with 10,000+ developers on our network today, we never saw that type of <i>organic</i> breakout success again. There’s a ton of great potentials, but no clear standouts.
 
-So we decided to be more deliberate about finding the next scalable ideas, or at least the ones with such potential. That’s where Hackomotive came into play.
+So we decided to be <i>more deliberate</i> about finding the next scalable ideas, or at least the ones with such potential. That’s where Hackomotive came into play.
 
-## Hackomotive
-### A Hackathon With a Purpose
+##Hackomotive
+###A Hackathon With a Purpose
 
 
 In 2013, we put on our very first Hackomotive event. Our objective was to tap into the wisdom of the crowd to solve the pressing challenges around car buying. Coding wasn’t the emphasis. Finding solutions was.
 The event was a <u>success</u>. The objective was met.
 
-However, everything ceased with the end of the event. Sure, we announced three winners, there was press, happy hour was popular, but once the event was over, the participants driving those ideas went back home. Back to their lives.
+However, <i>everything ceased with the end of the event.</i> Sure, we announced three winners, there was press, happy hour was popular, but once the event was over, the participants driving those ideas went back home. Back to their lives.
 
-### Back to their jobs.
+<b><i>Back to their jobs.</b></i>
 
 > Great ideas cannot survive without someone consistently driving them forward with vision, conviction and passion.
 
@@ -67,14 +67,14 @@ With that realization, we decided to change the format of Hackomotive to focus s
 
 > In 2014, eleven out of the twelve participating teams came from the API developer community.
 
-We had another successful event. Far better than the first one. The entrepreneurs received valuable feedback on their products from real customers as well as investors, industry experts, and other business leaders.
+We had another <u>successful</u> event. Far better than the first one. The entrepreneurs received valuable feedback on their products from real customers as well as investors, industry experts, and other business leaders.
 
-This time, momentum did not cease with the end of the event. We knew we needed to follow through with some of these products.
+This time, <i>momentum did not cease</i> with the end of the event. We knew we needed to follow through with some of these products.
 
-So we created Fastlane.
+So we created <u>Fastlane.</u>
 
 <h2 class="question-heading">Fastlane Accelerator:</h2>
-## The Product/Market Fit Acceleration
+##The Product/Market Fit Acceleration
 
 Coming out of Hackomotive 2014, we identified several products that we thought had great potential. We ended up selecting three to take part in our very first accelerator program–Fastlane.
 
@@ -82,10 +82,11 @@ When we designed Fastlane, we deliberately made it different from other accelera
 
 > Fastlane was designed to be an all-access, no-strings-attached opportunity for automotive entrepreneurs to validate their product/market fit.
 
+/blog-prototype/public/images/why-fastlane-pic.png
 
 Fastlane was also designed to give Edmunds the opportunity to share those great ideas with our customers and partners for feedback. Knowing what the market wants makes it easier to decide which ideas to invest in, acquire or part ways with.
 
-Last year, we concluded Fastlane with an acquisition. It was a success. It also showed us that the open innovation pipeline we pieced together was working.
+Last year, we concluded Fastlane with an acquisition. <i>It was a success.</i>  It also showed us that the open innovation pipeline we pieced together was working.
 
 In a few weeks, we’ll kick off our 2nd annual Fastlane Accelerator program. We’re excited to see where this one leads. Will it lead to another acquisition? An investment? A partnership? A profound learning?
 
@@ -96,7 +97,7 @@ Be part of our journey and follow us on Twitter.
 We will continue to learn, tweak and change this framework to make it work better for the entrepreneurs and for us.
 Iteration makes perfect.
 
-What we know for sure is that innovation requires an ecosystem to thrive. A pipeline. A framework. Having an Open Platform alone doesn’t cut it. Running a hackathon with no concrete consequences doesn’t cut it. Buying into a product without validating the product/market fit does not cut it.
+What we know for sure is that innovation requires an ecosystem to thrive. A pipeline. A framework. Having an Open Platform alone <i>doesn’t cut it.</i>  Running a hackathon with no concrete consequences <i>doesn’t cut it.</i>  Buying into a product without validating the product/market fit <i>does not cut it.</i>
 
 <b>Thoughts?</b>
 
