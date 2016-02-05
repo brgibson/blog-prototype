@@ -10,8 +10,9 @@
         white-space: nowrap;
         display: block;
 
-        @media (max-width: $breakpoint-medium) {
+         @media (max-width: $breakpoint-medium) {
             display: inline-block;
+            max-width: 100%;
         }
     }
 }
