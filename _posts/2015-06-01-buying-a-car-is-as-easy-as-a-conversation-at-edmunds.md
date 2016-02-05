@@ -7,7 +7,7 @@ image: /blog-prototype/public/images/buying-a-car-pic.png
 bio: 
  
 #this can be a jpg/png/gif or any other image type format#
-biopic: Mike-pic.jpg
+biopic: 
 
 featured-summary:
     <p>We released a new feature called “Text a Dealer” which allows the customer to start a conversation with the dealer through text messaging.</p>
