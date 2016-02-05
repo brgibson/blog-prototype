@@ -2,7 +2,7 @@
 layout: post
 title: Creating Innovation Paths at Edmunds
 tags: [All Things Tech]
-image:/blog-prototype/public/images/innovation-paths-at-edmunds-pic.png
+image: /blog-prototype/public/images/innovation-paths-at-edmunds-pic.png
 
 bio: Ismail Elshareef is Executive Director of Open Platforms.
  
