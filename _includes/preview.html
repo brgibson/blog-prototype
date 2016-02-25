@@ -2,10 +2,15 @@
 {% assign primary_tag_class = primary_tag | downcase | replace:' ','-' | replace:'&','and'  %}
 {% capture post_url %}{{ site.baseurl }}{{ include.post.url }}{% endcapture %}
 <article class="post-preview">
+    {% if include.post.image %}
     <a class="preview-image-link no-underline" href="{{ post_url }}">
         <img class="preview-image" src="{{ include.post.image }}"/>
     </a>
-    <div class="preview-main">
+        {% assign hasImage = true %}
+    {% else %}
+        {% assign hasImage = false %}
+    {% endif %}
+    <div class="preview-main {% if hasImage == false %}no-image{% endif %}">
         <a class="main-link no-underline no-color" href="{{ post_url }}">
             <h1 class="post-title anchor-style">
                     {{ include.post.title }}
