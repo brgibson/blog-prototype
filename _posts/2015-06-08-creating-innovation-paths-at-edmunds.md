@@ -51,7 +51,7 @@ But even with 10,000+ developers on our network today, we never saw that type of
 So we decided to be <i>more deliberate</i> about finding the next scalable ideas, or at least the ones with such potential. That’s where Hackomotive came into play.
 
 <h2 class="question-heading">Hackomotive</h2>
-###A Hackathon With a Purpose
+### A Hackathon With a Purpose
 
 
 In 2013, we put on our very first Hackomotive event. Our objective was to tap into the wisdom of the crowd to solve the pressing challenges around car buying. Coding wasn’t the emphasis. Finding solutions was.
@@ -74,7 +74,7 @@ This time, <i>momentum did not cease</i> with the end of the event. We knew we n
 So we created <u>Fastlane.</u>
 
 <h2 class="question-heading">Fastlane Accelerator</h2>
-##The Product/Market Fit Acceleration
+## The Product/Market Fit Acceleration
 
 Coming out of Hackomotive 2014, we identified several products that we thought had great potential. We ended up selecting three to take part in our very first accelerator program–Fastlane.
 
