@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Migrating to the Cloud a Financial Win for Your Company?
-tags: [Lessons Learned]
+tags: [Lessons Learned,All Things Tech]
 image: /blog-prototype/public/images/migration-to-the-cloud-graphic.png
 
 bio: Brad Tawa is Executive Director of Sourcing and Project Management and has been with Edmunds for 7 years.  He has held numerous finance, accounting, sourcing and technology leadership positions throughout his career and played a key role in developing and executing on Edmunds' cloud migration strategy.
