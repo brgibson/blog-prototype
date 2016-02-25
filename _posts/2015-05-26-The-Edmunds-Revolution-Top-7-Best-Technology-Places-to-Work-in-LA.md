@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Edmunds Revolution: One of Top 7 Best Technology Places to Work in LA
+title: The Edmunds Revolution - One of Top 7 Best Technology Places to Work in LA
 tags: [Lessons Learned]
 
 ---
