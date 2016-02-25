@@ -22,7 +22,7 @@ Ismail Elshareef, Executive Director of Open Platforms, recently published an ar
 <h1 class="question-heading">Annals of Open Innovation</h1> 
 <i>How Edmunds.com Built a Framework to Discover, Accelerate and Scale Breakthrough Automotive Ideas</i>
 
-blog-prototype/public/images/innovation-paths-at-edmunds-pic-png
+<img src="{{site.baseimagesurl}}/innovation-paths-at-edmunds-pic.png"/>
 
 Fast Company named Edmunds.com one of The World’s Top 10 Most Innovative Companies of 2015 in Automotive. It cited Hackomotive and the Fastlane Accelerator as two reasons why the company made the list. Aside from Edmunds, Apple, Tesla and Google, every company on that list was an automotive manufacturer like Toyota and GM.
 
@@ -51,6 +51,7 @@ But even with 10,000+ developers on our network today, we never saw that type of
 So we decided to be <i>more deliberate</i> about finding the next scalable ideas, or at least the ones with such potential. That’s where Hackomotive came into play.
 
 <h2 class="question-heading">Hackomotive</h2>
+
 ### A Hackathon With a Purpose
 
 
@@ -74,6 +75,7 @@ This time, <i>momentum did not cease</i> with the end of the event. We knew we n
 So we created <u>Fastlane.</u>
 
 <h2 class="question-heading">Fastlane Accelerator</h2>
+
 ## The Product/Market Fit Acceleration
 
 Coming out of Hackomotive 2014, we identified several products that we thought had great potential. We ended up selecting three to take part in our very first accelerator program–Fastlane.
@@ -103,5 +105,3 @@ What we know for sure is that innovation requires an ecosystem to thrive. A pipe
 
 Do you see improvements that could be done? A better framework perhaps? Would love to read your responses.
 
-
-########
