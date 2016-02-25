@@ -84,7 +84,7 @@ When we designed Fastlane, we deliberately made it different from other accelera
 
 > Fastlane was designed to be an all-access, no-strings-attached opportunity for automotive entrepreneurs to validate their product/market fit.
 
-/blog-prototype/public/images/why-fastlane-pic.png
+![Image of Why Fastlane]({{site.baseimagesur}}/why-fastlane-pic.png)
 
 Fastlane was also designed to give Edmunds the opportunity to share those great ideas with our customers and partners for feedback. Knowing what the market wants makes it easier to decide which ideas to invest in, acquire or part ways with.
 
