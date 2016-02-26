@@ -17,7 +17,7 @@ summary: Edmunds at SXSW 2014
 
 ---
 
-A brief recap written by Liz Harsh
+A brief recap written by Liz Harsh.
 
 For 4 days Edmunds had prime space within the Mashery Lounge at the Austin Convention Center, the hub of SXSW 2014.  
 
