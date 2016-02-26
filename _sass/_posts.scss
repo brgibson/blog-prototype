@@ -41,32 +41,13 @@
 
 // Related posts
 .related {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding: 0 1.25rem 1.5rem;
   border-top: 1px solid #eee;
 }
 
 .related-posts {
-  padding-left: 0;
-  list-style: none;
-
-  h3 {
-    margin-top: 0;
-  }
-
-  li {
-    small {
+    .related-date {
       font-size: 75%;
       color: #999;
     }
-
-    a:hover {
-      color: #268bd2;
-      text-decoration: none;
-
-      small {
-        color: inherit;
-      }
-    }
-  }
 }
