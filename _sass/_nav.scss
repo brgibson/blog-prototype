@@ -20,12 +20,12 @@
         line-height: 4rem;
         letter-spacing: .2rem;
         font-size: .8rem;
-
-        //        @media (max-width: $breakpoint-medium) {
         .icon {
             display: none;
         }
-        //        }
+    }
+    .nav-link {
+        width: 100%;
     }
 
     .blog-title {
