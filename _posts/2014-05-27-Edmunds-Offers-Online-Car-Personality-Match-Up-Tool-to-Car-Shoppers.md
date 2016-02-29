@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Edmunds Offers Online Car/Personality Match-Up Tool to Car Shoppers
+title: Edmunds Offers Online Car Personality Match-Up Tool to Car Shoppers
 tags:[All Things Tech]
 image: 
 
@@ -16,6 +16,7 @@ featured-summary:
 summary:
 
 ---
+
 SANTA MONICA, Calif. - May 20, 2014 - Personality-wise, would you consider yourself a Haute Hauler, a Stylistic Supercar or a High-Performance Hybrid? Today, car shopping website Edmunds.com launched a fun new quiz that makes it easy to assess what makes you tick, match it up with a custom car mashup and share your eye-catching automotive portrayal via social media. 
 
 "Usually, we apply our automotive knowledge in the name of car shopping, but this time it's in the name of having a little fun," said Suzanne Nagel, Edmunds.com's Executive Director of Brand Strategy. 
@@ -28,3 +29,4 @@ The company anticipates that the availability of the quiz will help bolster its 
 
 To access the quiz, visit: [Edmunds.com quiz](http://www.edmunds.com/quiz/)
 
+</p>
