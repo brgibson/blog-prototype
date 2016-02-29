@@ -16,7 +16,6 @@ featured-summary:
 summary: This is the shorter summary that shows up in the list view of the posts.  This is not the featured summary (which shows up with it is the first post).  The featured summary should be longer than this one.
 
 ---
-<p>
 
 Edmunds.com Named a Top Place to Work in Los Angeles for Fourth Consecutive Year
 
@@ -37,5 +36,3 @@ Edmunds.com has also been recognized by Los Angeles Business Journal as a leadi
 There are 18 open positions at Edmunds.com that can be viewed any time at [Edmunds Jobs](http://www.edmunds.com/about/jobs/). More details about Edmunds.com's secret sauce for innovative corporate culture can be found at(http://www.edmunds.com/about/secret-sauce.html)
 
 [About Edmunds.com, Inc.](http://www.edmunds.com) 
-
-</p>
