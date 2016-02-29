@@ -38,11 +38,11 @@ Powder blue bow ties, flower corsages, and a perfect DJ'd playlist courtesy of B
 <img src="{{site.baseimagesurl}}/SXSW-pic-4.jpg"/>
 
 
-10,300 = the number of people who visited the Mashery Lounge where our booth was located
+| 10,300 | = the number of people who visited the Mashery Lounge where our booth was located |
 
-1,783 = the number of pieces of branded swag given out
+| 1,783 | = the number of pieces of branded swag given out |
 
-1,000 = the number of people at Edmunds' "Price Promise Prom" 
+| 1,000 | = the number of people at Edmunds' "Price Promise Prom" |
 
 Edmunds is looking forward to having an even larger presence at SXSW 2015!
 
