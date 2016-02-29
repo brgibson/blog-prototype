@@ -1,0 +1,112 @@
+---
+layout: post
+title: Edmunds Named a Top Place to Work in Los Angeles for Fourth Consecutive Year
+tags: [Lessons Learned,All Things Tech,Big Data]
+image: /blog-prototype/public/images/edmunds-technology.png
+
+bio: 
+ 
+#this can be a jpg/png/gif or any other image type format#
+biopic: 
+
+featured-summary:
+    <p>This is the summary that will show up when it is the first post.</p>
+    <p>This is still the featured summary.  You can add markup to make it look extra pretty, if that's what you want to do.</p>
+
+summary: This is the shorter summary that shows up in the list view of the posts.  This is not the featured summary (which shows up with it is the first post).  The featured summary should be longer than this one.
+
+---
+
+Edmunds.com Named a Top Place to Work in Los Angeles for Fourth Consecutive Year
+
+SANTA MONICA, Calif. - August 21, 2013 - The Los Angeles Business Journal today recognized Edmunds.com, the premier resource for car buying and automotive information, among the top 20 Best Places to Work in Los Angeles in the large company category (+250 employees). The honor marks the fourth year in a row that Edmunds.com has been recognized as a top workplace in Southern California.
+
+Edmunds.com is a car-shopping Web site committed to helping people find the car that meets their every need. Almost 18 million visitors use our research, shopping and buying tools every month to make an easy and informed decision on their next new or used car. Whether you're at the dealership or on the go, we're always by your side with our acclaimedEdmunds.com iPhone and iPad apps and our Edmunds.com Android App. Our comprehensive car reviews, shopping tips, photos, videos and feature stories offer a friendly and authentic approach to the automotive world. We're based in Santa Monica, Calif., but you can connect with us from anywhere by following @Edmunds on Twitter or by becoming a fan ofEdmunds.com on Facebook.
+
+With more and more companies competing each year for "Best Places to Work™ recognition, you can't perform well without finding innovative ways to attract and retain top talent, says Edmunds.com CEO Avi Steinlauf. It's a testament to both our staff and our corporate culture that we continue to stand out as a top workplace in the Los Angeles Area."
+
+Edmunds.com officially ranked #16 in the large company category and today's award presentation specifically cited its FitCa$h fitness expense reimbursement program as a top employee perk. Other perks added by Edmunds.com within the last 12 months include the "Living the Edmunds Way" peer recognition awards program and Get Active team fitness competitions.
+
+Edmunds.com has long prided itself on being a progressive workplace. Just last year, Edmunds.com adopted a Results Only Work Environment (ROWE), in which employees are offered the freedom to work at any time from any location in which they can most effectively deliver their expected results. Edmunds.com also allows employees the freedom (subject to certain requirements) to take as much paid time off as desired. These practices are quickly becoming the new buzz among America's technology executives, and Edmunds.com President Seth Berkowitz has been nominated to speak about Edmunds.com's ROWE culture at next year's South by Southwest Interactive Festival (SXSW) in Austin, Tex. More details on this can be found at http://www.edmunds.com/innovation/
+
+Each year the Los Angeles Business Journal, a weekly publication examining commerce within the LA economy, recognizes the best employers in Los Angeles County. The assessment process reviews company benefits and policies as well as results of an employee engagement and satisfaction survey. The annual assessment is managed by the Best Companies Group.
+
+Edmunds.com has also been recognized by Los Angeles Business Journal as a leading institution among rising tech companies in Santa Monica's Silicon Beach.  The company has previously earned national recognition from The Huffington Post, BusinessWeek, The Wall Street Journal and Architectural Record.
+
+There are 18 open positions at Edmunds.com that can be viewed any time at http://www.edmunds.com/about/jobs/. More details about Edmunds.com's secret sauce for innovative corporate culture can be found at http://www.edmunds.com/about/secret-sauce.html
+
+
+About Edmunds.com, Inc. 
+
+
+
+
+
+
+
+Here's a template table:
+
+| Things I like to Eat | Reasons Why |
+| ------ | ----------- |
+| Frozen Peas | I love frozen peas because they are refreshing and cold.  What a great summer snack! |
+| Fish Sticks are great too| I mean... they go well with frozen peas |
+| Peanut Butter and Jelly Sandwiches and other types of sandwiches | Who doesn't like sandwiches|
+| Frozen Peas | I mean come one.  Who doesn't like them?  Most people maybe... |
+
+Here's an example of a numbered list.
+
+1. Proactive - take ownership of your own work
+2. An adult - gives you responsibility and holds you accountable
+3. Communicative - requires you to actually talk to your teammates
+
+Here's how to do a bulleted list:
+
+* Proactive - take ownership of your own work
+* An adult - gives you responsibility and holds you accountable
+* Communicative - requires you to actually talk to your teammates
+
+Here's an example of a blockquote:
+
+> This is a blockquote.  It's where you are quoting something and you want it to look like this.  So there it is.
+
+Here's an example of inserting an image:
+
+![Image of Edmunds Technology]({{site.baseimagesurl}}/edmunds-technology.png)
+
+or
+
+<img src="{{site.baseimagesurl}}/edmunds-technology.png" />
+
+Here's how you can do a Q/A header
+
+<h2 class="question-heading">What are some things to keep in mind before migrating to the cloud?</h2>
+
+Here's how you can do headers
+
+## Here's an H2
+
+The header was above me
+
+### Here's an H3
+
+It's still a header above me
+
+#### Here's an H4
+
+And one last one
+
+Here's how to do an additional bio... if there are multiple authors:
+
+<p class="clearfix">
+        <img src="{{site.baseimagesurl}}/Mike-pic.jpg" style="float: right;margin-left: 1em;max-width:12em;max-height:15em;"/>
+
+        <i style="font-size:.75rem">
+            This is the bio for joe bob.  It's a bio for bob.  This is where you should put info about bob. This is more info about bob.  
+            Who knows things about bob.  I know things about bob. This is the bio for joe bob.  It's a bio for bob.  This is where you should
+            put info about bob.   
+        </i>
+</p>
+
+
+
+
