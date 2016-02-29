@@ -34,8 +34,8 @@ Each year the Los Angeles Business Journal, a weekly publication examining comm
 
 Edmunds.com has also been recognized by Los Angeles Business Journal as a leading institution among rising tech companies in Santa Monica's Silicon Beach.  The company has previously earned national recognition from The Huffington Post, BusinessWeek, The Wall Street Journal and Architectural Record.
 
-There are 18 open positions at Edmunds.com that can be viewed any time at [Edmunds Jobs] (http://www.edmunds.com/about/jobs/). More details about Edmunds.com's secret sauce for innovative corporate culture can be found at (http://www.edmunds.com/about/secret-sauce.html)
+There are 18 open positions at Edmunds.com that can be viewed any time at [Edmunds Jobs](http://www.edmunds.com/about/jobs/). More details about Edmunds.com's secret sauce for innovative corporate culture can be found at(http://www.edmunds.com/about/secret-sauce.html)
 
-[About Edmunds.com, Inc.] (http://www.edmunds.com) 
+[About Edmunds.com, Inc.](http://www.edmunds.com) 
 
 </p>
