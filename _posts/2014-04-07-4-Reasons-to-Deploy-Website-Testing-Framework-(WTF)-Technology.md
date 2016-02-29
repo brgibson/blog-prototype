@@ -40,6 +40,6 @@ There are certain pages on our site that every team wants to test. WTF detects w
 
 WTF has standardized reports for all live experiments. To ensure that all aspects of the testing system are functioning normally, we regularly run an AA test. Using a 95% confidence interval, we expect no difference in key metrics 95% of the time. This sanity check detects potential issues with the framework as we develop new features.
 
-<b> Conclusion: What's coming </b>
+Conclusion: What's coming
 
 As we increase our reliance on controlled experiments for various layers of our products, we want to accelerate the detection of winning recipes. We will be adding features to increase the sensitivity of our reports for key user segments. We are also formulating our Overall Evaluation Criteria, so that we can introduce Multi-Arm Bandit to dynamically split traffic between the recipe variants.
