@@ -16,6 +16,7 @@ featured-summary:
 summary: This is the shorter summary that shows up in the list view of the posts.  This is not the featured summary (which shows up with it is the first post).  The featured summary should be longer than this one.
 
 ---
+<p>
 
 Edmunds.com Named a Top Place to Work in Los Angeles for Fourth Consecutive Year
 
@@ -33,80 +34,8 @@ Each year the Los Angeles Business Journal, a weekly publication examining comm
 
 Edmunds.com has also been recognized by Los Angeles Business Journal as a leading institution among rising tech companies in Santa Monica's Silicon Beach.  The company has previously earned national recognition from The Huffington Post, BusinessWeek, The Wall Street Journal and Architectural Record.
 
-There are 18 open positions at Edmunds.com that can be viewed any time at http://www.edmunds.com/about/jobs/. More details about Edmunds.com's secret sauce for innovative corporate culture can be found at http://www.edmunds.com/about/secret-sauce.html
+There are 18 open positions at Edmunds.com that can be viewed any time at [Edmunds Jobs] (http://www.edmunds.com/about/jobs/). More details about Edmunds.com's secret sauce for innovative corporate culture can be found at (http://www.edmunds.com/about/secret-sauce.html)
 
+[About Edmunds.com, Inc.] (http://www.edmunds.com) 
 
-About Edmunds.com, Inc. 
-
-
-
-
-
-
-
-Here's a template table:
-
-| Things I like to Eat | Reasons Why |
-| ------ | ----------- |
-| Frozen Peas | I love frozen peas because they are refreshing and cold.  What a great summer snack! |
-| Fish Sticks are great too| I mean... they go well with frozen peas |
-| Peanut Butter and Jelly Sandwiches and other types of sandwiches | Who doesn't like sandwiches|
-| Frozen Peas | I mean come one.  Who doesn't like them?  Most people maybe... |
-
-Here's an example of a numbered list.
-
-1. Proactive - take ownership of your own work
-2. An adult - gives you responsibility and holds you accountable
-3. Communicative - requires you to actually talk to your teammates
-
-Here's how to do a bulleted list:
-
-* Proactive - take ownership of your own work
-* An adult - gives you responsibility and holds you accountable
-* Communicative - requires you to actually talk to your teammates
-
-Here's an example of a blockquote:
-
-> This is a blockquote.  It's where you are quoting something and you want it to look like this.  So there it is.
-
-Here's an example of inserting an image:
-
-![Image of Edmunds Technology]({{site.baseimagesurl}}/edmunds-technology.png)
-
-or
-
-<img src="{{site.baseimagesurl}}/edmunds-technology.png" />
-
-Here's how you can do a Q/A header
-
-<h2 class="question-heading">What are some things to keep in mind before migrating to the cloud?</h2>
-
-Here's how you can do headers
-
-## Here's an H2
-
-The header was above me
-
-### Here's an H3
-
-It's still a header above me
-
-#### Here's an H4
-
-And one last one
-
-Here's how to do an additional bio... if there are multiple authors:
-
-<p class="clearfix">
-        <img src="{{site.baseimagesurl}}/Mike-pic.jpg" style="float: right;margin-left: 1em;max-width:12em;max-height:15em;"/>
-
-        <i style="font-size:.75rem">
-            This is the bio for joe bob.  It's a bio for bob.  This is where you should put info about bob. This is more info about bob.  
-            Who knows things about bob.  I know things about bob. This is the bio for joe bob.  It's a bio for bob.  This is where you should
-            put info about bob.   
-        </i>
 </p>
-
-
-
-
