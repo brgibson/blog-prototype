@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Edmunds Offers Online Car/Personality Match-Up Tool to Car Shoppers
-tags: [All Things Tech]
+tags:[All Things Tech]
 image: 
 
 bio: Contact: Jeannine Fallon/Aaron Lewis/Stephanie Mar.  Edmunds.com Corporate Communications Media Hotline: 310-309-4900 / email: pr@edmunds.com.
