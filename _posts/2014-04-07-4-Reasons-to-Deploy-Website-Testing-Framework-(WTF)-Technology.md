@@ -12,13 +12,13 @@ biopic:
 featured-summary:
     <p> A brief summary of Edmunds' transition to Website Testing Framework (WTF) written by Daniel Kang. </p>
 
-summary: 
+summary: A brief summary of Edmunds' transition to Website Testing Framework (WTF) written by Daniel Kang.
 
 ---
 
 At the beginning of 2014, the Software Architecture team at Edmunds.com deployed a new Website Testing Framework (WTF) which enables us to run hundreds of parallel experiments in a reliable manner. Since launching WTF, our company has reached a new level of efficiency and confidence in designing, coordinating and measuring our controlled experiments. We wanted to share our experience building WTF, and go over the motivation for choosing an in-house solution. 
 
-> Motivation 1: Centralize the configuration of all AB tests
+> <b> Motivation 1: Centralize the configuration of all AB tests </b>
 
 We used to have two separate AB testing systems that were tailored specifically for JavaScript and for CMS templates. In both systems, the test configuration was essentially placed around the code block that would generate the AB variants. Since these configuration blocks were not easily visible, it became a tedious exercise to track down all the AB tests. We ran a very large weekly AB test coordination meeting with all Product Owners and Business Analysts to describe, slot, and track all running tests. 
 
