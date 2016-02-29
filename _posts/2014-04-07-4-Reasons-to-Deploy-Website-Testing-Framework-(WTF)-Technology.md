@@ -24,7 +24,7 @@ We used to have two separate AB testing systems that were tailored specifically 
 
 The solution WTF provided was simple. All configuration code for both client and server side experiments are standardized and published from a single source. We also created a WTF Dashboard which shows experiments running in each environment. It contains a description of the test, the expected start and end dates, and the pages and components that are being tested. 
 
-> Motivation 2: Eliminate wait time to run an AB test
+> <b> Motivation 2: Eliminate wait time to run an AB test </b>
 
 One of the biggest bottlenecks we encountered in launching an AB test, was waiting for your test to get slotted to go live. The process for launching an AB test involved asking a Business Analyst to forecast the percentage of visitors required to confidently detect a lift in key metrics during a two week period. If three campaigns each required 33% of visitors, no other campaigns could be slotted. 
 
@@ -32,14 +32,14 @@ WTF changed this approach by allowing each visitor to be part of multiple experi
 
 With WTF we want developers and product owners to come up with testable ideas, and immediately launch their experiments when ready. This allows us to run more tests than ever.
 
-> Motivation 3: Auto coordinate AB test campaigns
+> <b> Motivation 3: Auto coordinate AB test campaigns </b>
 
 There are certain pages on our site that every team wants to test. WTF detects when experiments are trying to test the same page, and splits traffic evenly between the overlapping experiments. It also notifies the Product Owner of the overlap so that they can decide whether they need additional coordination. WTF also guarantees that no experiments will be starved of traffic since the traffic split between all overlapping campaigns happens at the beginning of the visitorâ€™s session. 
 
-> Motivation 4: Provide end to end audit of our AB testing system
+> <b> Motivation 4: Provide end to end audit of our AB testing system <b>
 
 WTF has standardized reports for all live experiments. To ensure that all aspects of the testing system are functioning normally, we regularly run an AA test. Using a 95% confidence interval, we expect no difference in key metrics 95% of the time. This sanity check detects potential issues with the framework as we develop new features.
 
-Conclusion: What's coming
+<b> Conclusion: What's coming </b>
 
 As we increase our reliance on controlled experiments for various layers of our products, we want to accelerate the detection of winning recipes. We will be adding features to increase the sensitivity of our reports for key user segments. We are also formulating our Overall Evaluation Criteria, so that we can introduce Multi-Arm Bandit to dynamically split traffic between the recipe variants.
