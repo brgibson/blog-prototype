@@ -20,7 +20,7 @@ SANTA MONICA, Calif. - May 20, 2014 - Personality-wise, would you consider yours
 
 "Usually, we apply our automotive knowledge in the name of car shopping, but this time it's in the name of having a little fun," said Suzanne Nagel, Edmunds.com's Executive Director of Brand Strategy. 
 
-Quiz takers will answer 15 light-hearted questions that help evaluate key personality traits -- unconventionality, status and altruism -- then will be shown a custom car that represents them. The Edmunds.com team worked with [Dr. Tomas Chamorro-Premuzic](http://www.drtomascp.com/), Professor of Business Psychology at University College London and a visiting Professor at New York University, to devise the personality quiz and results.
+Quiz takers will answer 15 light-hearted questions that help evaluate key personality traits -- unconventionality, status and altruism -- then will be shown a custom car that represents them. The Edmunds.com team worked with [Dr. Tomas Chamorro-Premuzic](http://www.drtomascp.com/), a Professor of Business Psychology at University College London and a visiting Professor at New York University, to devise the personality quiz and results.
 
 The company anticipates that the availability of the quiz will help bolster its already significant social media presence. Currently, Edmunds.com has over 235,000 Facebook likes on Facebook, over 67,000 Twitter followers and over 1.7 million Google+ followers. 
 
