@@ -11,7 +11,7 @@ biopic:
 featured-summary:
     <p>A brief recap written by Matt May (innovation expert & Hackomotive emcee) on Edmunds' recent Hackomotive 2014 event</p>
 
-summary: A brief recap written by Matt May (innovation expert & Hackomotive emcee) on Edmunds' recent Hackomotive 2014 event.  Hackomotive was a three-day hackathon that brought in 12 teams from across the country to Edmunds HQ to compete in a "Shark Tank"-style format to develop and showcase ideas and products aimed at making car shopping easier. The winners took home $35,000 in cash. 
+summary: A brief recap written by Matt May (innovation expert & Hackomotive emcee) on Edmunds' recent Hackomotive 2014 event. 
 
 ---
 In the world of corporate innovation, hackathons have moved well beyond the technology-only focus that the word â€œhackâ€ often conjures up. They've become a valid method of bringing a diverse and passionate group of people together over a short time to solve real world problems and produce a basket of strong ideas.

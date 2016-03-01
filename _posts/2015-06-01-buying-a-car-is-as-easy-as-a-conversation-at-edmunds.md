@@ -12,7 +12,7 @@ biopic:
 featured-summary:
     <p>We released a new feature called “Text a Dealer” which allows the customer to start a conversation with the dealer through text messaging.</p>
 
-summary:  We released a new feature called “Text a Dealer” which allows the customer to start a conversation with the dealer through text messaging. On the surface, the idea seems to already exist. Anyone can send a text message as long as you have a number. But consider the process to get that phone number. You have to drive to a dealership, find a salesperson, talk about the cars you are considering, and then finally get their number. All of this takes time and effort just to start a text conversation.
+summary:  We released a new feature called “Text a Dealer” which allows the customer to start a conversation with the dealer through text messaging. On the surface, the idea seems to already exist. Anyone can send a text
 
 ---
 

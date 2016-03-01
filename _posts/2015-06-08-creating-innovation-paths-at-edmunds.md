@@ -12,7 +12,7 @@ biopic: Ismail-bio-pic.png
 featured-summary:
     <p>Ismail Elshareef, Executive Director of Open Platforms, recently published an article regarding the history behind our innovative Hackomotive and Fastlane programs. Why does this matter? Well it got Edmunds.com on the World's Top 10 Most Innovative Companies of 2015 in Automotive list for starters. But we didn't create these innovation platforms for the recognition. We created these innovation paths to identify new ideas in the automotive marketplace to increase our success. To understand more about the trials and learnings from where we started in the innovation process to where we are now, read below.</p>
 
-summary: Ismail Elshareef, Executive Director of Open Platforms, recently pInnublished an article regarding the history behind our innovative Hackomotive and Fastlane programs. Why does this matter? Well it got Edmunds.com on the World's Top 10 Most Innovative Companies of 2015 in Automotive list for starters.
+summary: Ismail Elshareef, Executive Director of Open Platforms, recently published an article regarding the history behind our innovative Hackomotive and Fastlane programs.
 
 ---
 
