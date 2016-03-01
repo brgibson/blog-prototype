@@ -36,7 +36,7 @@ Once upon a time, I was a great interviewer. If I can get my foot in the door, I
 
 In order for me to be a well rounded and happy employee, I need to realize my value, contribution, and potential. Am I worth as much as I think. Am I undervalued. Do I have the skills to take myself to the next level. Do I have opportunities to grow? Am I recognized for my work. Am I as much of a rock star as I think I am. These are all questions I needed to dig deep into and consider. I now have a greater appreciation for the skills I've developed at Edmunds and for the growth opportunities I have been exposed to.
 
-> <b>Should Edmunds be concerned about my loyalty?.</b>
+> <b>Should Edmunds be concerned about my loyalty?</b>
 
 I don't think that's the right consideration. I shouldn't be uncertain about where I work and why I work there. This interview process only solidifies my commitment to Edmunds. It aligns my beliefs and values with those of the company. It really put a spotlight on my strengths and helps me understand why I belong. 
 
