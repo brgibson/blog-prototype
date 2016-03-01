@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building a Data Warehouse for Business Analytics using Spark SQL - Spark Summit 2015
-tags: [All Things Tech,Big Data]
+tags: [All Things Tech, Big Data]
 image: 
 
 bio: Blagoy Kaloferov is a Big Data Software Engineer at Edmunds.com with experience in devising reliable services that process very large quantities of structured and unstructured data and creating a toolset to make analyzing this data very simple. He is currently pushing the boundaries on Big Data interactive applications with Apache Spark. He is passionate about architecting solutions that are powerful, yet as simple and quick as possible for end users.
