@@ -1,12 +1,11 @@
 ---
 layout: post
 title: 4 Reasons to Deploy Website Testing Framework (WTF) Technology
-tags: [Lessons Learned,All Things Tech,Big Data]
+tags: [Lessons Learned,All Things Tech]
 image: /blog-prototype/public/images/edmunds-technology.png
 
-bio: Daniel Kang is Edmunds' Director of Software Architecture.
+bio: Daniel Kang is Director of Software Architecture at Edmunds.
  
-#this can be a jpg/png/gif or any other image type format#
 biopic: 
 
 featured-summary:
