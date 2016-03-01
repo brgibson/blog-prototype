@@ -11,7 +11,7 @@ biopic:
 featured-summary:
     <p> </p>
 
-summary: This is the shorter summary that shows up in the list view of the posts.  This is not the featured summary (which shows up with it is the first post).  The featured summary should be longer than this one.
+summary:
 
 ---
 
