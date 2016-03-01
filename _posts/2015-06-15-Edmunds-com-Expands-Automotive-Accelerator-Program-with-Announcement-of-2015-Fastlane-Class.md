@@ -16,7 +16,7 @@ summary: Car-buying platform Edmunds.com today announced the six startups chosen
 Startups in 2015 Class Focus on Bringing Innovative Solutions to Car Shopping
 Published: 06/09/2015 
 
-SANTA MONICA, Calif. - June 2, 2015 - Car-buying platform Edmunds.com today announced the six startups chosen for the 2015 class of its Fastlane accelerator program:
+SANTA MONICA, Calif. - June 2, 2015 - Car-buying platform Edmunds.com today announced the six startups chosen for the 2015 class of its Fastlane accelerator program
  
 * fiSpeed.com
 * ZipFlip.com
@@ -29,13 +29,14 @@ Throughout the three-month program, these startups will have the opportunity to 
 
 "Since our inception as a dot com, we have been committed to driving innovation in the automotive space," said Edmunds.com CEO Avi Steinlauf. "The six companies that we have chosen to make up our 2015 Fastlane class represent different, yet crucial, pillars of car shopping. By giving them access to our resources to further develop their solutions, we are confident that we will continue to act as a catalyst for positive change within the automotive industry."
 
-For the 2015 Fastlane class, Edmunds chose companies with a diverse set of services and products to ensure that all elements of the car buying process are considered. These companies include:
+For the 2015 Fastlane class, Edmunds chose companies with a diverse set of services and products to ensure that all elements of the car buying process are considered. These companies include
+
 * fiSpeed.com, a web-based tool to accelerate the F&I process in the automotive sales industry
 * ZipFlip.com, a peer-to-peer marketplace for buying and selling used cars
 * MyCarBuyingSecrets.com, a robust information platform for car shoppers
 * Credit Concierge, a web and mobile solution for expediting pre-approved financing
 * MyAutoCloud.com, a fully automated loyalty and retention platform
-* Leasify, the first mobile app to enter the car leasing space.
+* Leasify - the first mobile app to enter the car leasing space.
 
 The Fastlane program will begin at the end of June and run through the end of September. The startups will be evaluated each month by Fastlane board members, a team consisting of Edmunds.com President Seth Berkowitz, and other senior executives and product leaders. The program culminates on Fastlane Demo Day, when the teams that have been selected by Edmunds present their final product offering to the Fastlane board and the entire Edmunds staff. For additional information about the program, please visit [Edmunds Fastlane](http://www.fastlaneaccelerator.com/). 
 
