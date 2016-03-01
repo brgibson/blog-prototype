@@ -6,12 +6,10 @@ image: /blog-prototype/public/images/edmunds-technology.png
 
 bio: 
  
-#this can be a jpg/png/gif or any other image type format#
 biopic: 
 
 featured-summary:
-    <p>This is the summary that will show up when it is the first post.</p>
-    <p>This is still the featured summary.  You can add markup to make it look extra pretty, if that's what you want to do.</p>
+    <p> </p>
 
 summary: This is the shorter summary that shows up in the list view of the posts.  This is not the featured summary (which shows up with it is the first post).  The featured summary should be longer than this one.
 
