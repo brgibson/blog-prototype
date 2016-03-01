@@ -1,0 +1,147 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue233;\red109\green109\blue109;
+}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 --- layout: post title: Widgets and API Adoption tags: [All Things Tech] ---\
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 The {\field{\*\fldinst{HYPERLINK "http://developer.edmunds.com/"}}{\fldrslt \cf3 \expnd0\expndtw0\kerning0
+\ul \ulc3 \outl0\strokewidth0 \strokec3 Edmunds API}} has been live for almost two years now, boasting over 1,300 active developers and 250+ live applications. {\field{\*\fldinst{HYPERLINK "http://developer.edmunds.com/api_gallery"}}{\fldrslt \cf3 \expnd0\expndtw0\kerning0
+\ul \ulc3 \outl0\strokewidth0 \strokec3 Individual developers and large firms}}\'a0are using the API to build creative automotive experiences for their customers.\'a0Companies like\'a0{\field{\*\fldinst{HYPERLINK "http://www.ebay.com/"}}{\fldrslt \cf3 \expnd0\expndtw0\kerning0
+\ul \ulc3 \outl0\strokewidth0 \strokec3 eBay}},\'a0{\field{\*\fldinst{HYPERLINK "http://www.toyota.com/"}}{\fldrslt \cf3 \expnd0\expndtw0\kerning0
+\ul \ulc3 \outl0\strokewidth0 \strokec3 Toyota}}\'a0and the automotive tech agency, Nexteppe, are a few that come to mind.\
+\
+But in order to build out a custom API-based experience, like these guys did, one needs to possess a certain level of web development expertise and resource commitment.\'a0Based on our experience, not everyone interested in our data is capable of that. Some of our partners just want to "put the API on their web page". That's a direct quote.\
+\
+\pard\pardeftab720\sa280
+
+\b\fs28 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 SO WHY WIDGETS?\
+\pard\pardeftab720
+
+\b0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+After getting a large number of these requests to "just put the API on the page", we went to the drawing board to address that need. These requests were coming from some of our partners (mostly dealerships), which made them a high priority for us. Our solution had to satisfy the following three conditions:\
+\
+\pard\pardeftab720
+
+\b \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 1. Self-serve:
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \'a0in order for the solution to be scalable, it had to be easily deployable. We [Edmunds.com] cannot be the bottleneck in its adoption.\
+
+\b \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 2. Configurable:
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \'a0allow partners using this solution to customize it enough to make it their own without having us creating one-offs for them that aren't maintainable.\
+
+\b \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 3. Embeddable:
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0  the solutions needs to be embedded on the partner's website using web technology (i.e. Javascript)\
+\
+With that mind, we landed on\'a0
+\b \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 API Widgets
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 : 
+\i \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 configurable, self-contained, easy-to-embed automotive solutions built in Javascript
+\i0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 .\
+\
+Widgets are nothing new, of course, and that familiarity helped tip our decision in their favor. We didn't want a novel solution that confused partners and required them to learn yet a new way of doing things. We wanted a tried-and-true solution that everyone's familiar with and widgets satisfied that criterion fully.\
+\
+\pard\pardeftab720\sa280
+
+\b\fs28 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 THE EDMUNDS API WIDGETS\
+\pard\pardeftab720
+
+\b0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+We currently have two widgets: The {\field{\*\fldinst{HYPERLINK "http://widgets.edmunds.com/tmv/v2"}}{\fldrslt \cf3 \expnd0\expndtw0\kerning0
+\ul \ulc3 \outl0\strokewidth0 \strokec3 True Market Value\'ae}}\'a0(TMV) and the {\field{\*\fldinst{HYPERLINK "http://widgets.edmunds.com/carconfig/v1"}}{\fldrslt \cf3 \expnd0\expndtw0\kerning0
+\ul \ulc3 \outl0\strokewidth0 \strokec3 New Vehicle Configurator}} widgets. Both widgets were built based on a set of feature requests were received directly from partners. Therefore, both widgets are currently being used by those partners who otherwise wouldn't have been able to use our API.\
+\
+Each widget offers the following:\
+\
+\pard\tx220\tx720\pardeftab720\li720\fi-720
+\ls1\ilvl0
+\b \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Widget Configuration:
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0  We identify parts of the widget that the client would or could change and made it configurable.\
+\ls1\ilvl0
+\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Live Demo:
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0  Widget can be interacted with while being configured. Clients can see what they'll get before embedding anything on their page.\
+\ls1\ilvl0
+\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Custom Events:
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0  All actions happening within the widget (dropdown value selected, car photo is displayed, price is calculated, ...etc) can be subscribed to in order to extend the widget's functionality.\
+\ls1\ilvl0
+\b \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	4.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Documentation:
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0  To be completely self-serve, full documentation of how to install, configure and extend the widget is provided.\
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 The New Vehicle Configurator widget allows the consumer to pick a new vehicle, select its color and options and get pricing on it for a specific zip code before submitting a request for a price quote to nearby dealers.\
+\
+The TMV\'ae widget is a basic pricing widget for new and used vehicles giving the consumer an idea of how much others have paid for a similar vehicle in their area. The widget also offers a trade-in price range for used vehicles (a highly requested feature).\
+\
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trmarr240 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clwWidth12400\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qc
+{\field{\*\fldinst{HYPERLINK "http://2.bp.blogspot.com/-DJJkOUjLyBQ/UbECxXuCNwI/AAAAAAAAAKA/NvQa6FZbB4Y/s1600/NVCblog.png"}}{\fldrslt \cf3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 }}\pard\intbl\itap1\pardeftab720\qc
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trmarr240 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clwWidth12400\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qc
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 New Vehicle Configurator widget\cell \lastrow\row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trmarr240 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clwWidth12400\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qc
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+\pard\intbl\itap1\pardeftab720\qc
+{\field{\*\fldinst{HYPERLINK "http://3.bp.blogspot.com/-dt8ixM173wk/UbEC1GRAVcI/AAAAAAAAAKI/U1GYFykXdF4/s1600/TMVblog.png"}}{\fldrslt \cf3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 }}\pard\intbl\itap1\pardeftab720\qc
+\cf2 \cell \row
+
+\itap1\trowd \taflags0 \trgaph108\trleft-108 \trmarr240 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalc \clshdrawnil \clwWidth12400\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl0 \clpadr0 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qc
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 True Market Value\'ae widget\
+\cell \lastrow\row
+\pard\pardeftab720
+\cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+We will continue to build widgets (we have two more in development) to ensure a wider API adoption. Even better, we 
+\b \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 will be releasing the widget SDK
+\b0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0  very soon so developers can also build widgets that are easy for clients to install. We're in effect removing ourselves as the bottleneck of widget development by staying true to putting the power in the developer hand.\
+\
+For more Edmunds API news and updates, follow us on Twitter\'a0{\field{\*\fldinst{HYPERLINK "https://twitter.com/EdmundsAPI"}}{\fldrslt \cf3 \expnd0\expndtw0\kerning0
+\ul \ulc3 \outl0\strokewidth0 \strokec3 @EdmundsAPI}}\
+\
+Happy Coding!\
+}
