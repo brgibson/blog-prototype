@@ -4,7 +4,7 @@ title: Edmunds Offers Online Car Personality Match Up Tool to Car Shoppers
 tags: [All Things Tech]
 image: 
 
-bio: Contact: Jeannine Fallon/Aaron Lewis/Stephanie Mar.  Edmunds.com Corporate Communications Media Hotline: 310-309-4900 / email: pr@edmunds.com.
+bio: Contact - Jeannine Fallon/Aaron Lewis/Stephanie Mar.  Edmunds.com Corporate Communications Media Hotline - 310-309-4900 / email - pr@edmunds.com.
 
 featured-summary:
     <p> Edmunds Offers Online Car/Personality Match-Up Tool to Car Shoppers </p>
@@ -24,5 +24,3 @@ The company anticipates that the availability of the quiz will help bolster its 
 "We like the idea of having a little fun and trying something new to catch people's attention.  The more people are familiar with the Edmunds.com name, the more people will have an easier time buying their next car," promised Nagel, who also managed the company's first-ever television advertising campaign that launched in December 2013.
 
 To access the quiz, visit: [Edmunds.com quiz](http://www.edmunds.com/quiz/)
-
-</p>
