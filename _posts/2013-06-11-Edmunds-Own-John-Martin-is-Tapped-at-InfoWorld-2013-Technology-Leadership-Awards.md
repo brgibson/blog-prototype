@@ -14,11 +14,16 @@ featured-summary:
 summary: 
 
 ---
-The InfoWorld 2013 Technology Leadership Awards
-Creativity and execution are hallmarks of great leadership, as these eight technologists proved in pushing their organizations in bold new directions
-By Galen Gruman | InfoWorld
-Published JUNE 10, 2013
 
+<h2 style="color:black;">The InfoWorld 2013 Technology Leadership Awards</h2>
+<span style="color:black;font-weight:bold">
+    Creativity and execution are hallmarks of great leadership, as these eight technologists proved in pushing their organizations in bold new directions
+</span>
+
+By [Galen Gruman](http://www.infoworld.com/author/Galen-Gruman/) \| [InfoWorld](http://www.infoworld.com/article/2614611/it-management/the-infoworld-2013-technology-leadership-awards.html) \| Published June 10, 2013
+
+
+----
 
 Leading technology -- as a creator, manager, implementer, and business catalyst -- is no small feat even in the course of running IT or a business. Technology changes rapidly, and it often becomes increasingly complex. The problems and opportunities to which it is applied are equally variable, messy, and involved; the easy "just add automation" problems have already been addressed.
 
@@ -44,15 +49,25 @@ The TLAs have no set number of winners, nor need there be honorees in each categ
 
 We've found it, as the 2013 Technology Leadership Awards winners show. We present them in alphabetical order within each category:
 
-* Business management - Anthony Ricco (Citrix Systems)
+### Business management
+* Anthony Ricco (Citrix Systems)
 
-* IT management - Tim Bell (CERN), John Martin (Edmunds.com), Chris Whyde (Capital One)
+### IT management
+* Tim Bell (CERN)
+* John Martin (Edmunds.com)
+* Chris Whyde (Capital One)
 
-* Technology creation/management - John Basso (Amadeus Consulting), Brian O'Neill (Health Market Science)
+### Technology creation/management
+* John Basso (Amadeus Consulting)
+* Brian O'Neill (Health Market Science)
 
-* Technology deployment - Craig Brown (STEM Resource Partners), Babette Davis (California EDD)
+### Technology deployment 
+* Craig Brown (STEM Resource Partners)
+* Babette Davis (California EDD)
 
-TLA 2013: IT Management
+----
+
+## TLA 2013: IT Management
 John Martin, senior director of production engineering, Edmunds.com
 
 "In October 2010, I walked out of what had turned into a particularly gruesome war room. We had just launched a project that we called Edmunds 2.0, which basically involved re-architecting our application around SOA principles, and we had found some problems in the production runway. We had been in the war room for days, and it was starting to smell. As I left the room that day I thought to myself, 'There has to be a better way,'" recalls Martin.
