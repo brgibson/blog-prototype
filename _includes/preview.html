@@ -15,10 +15,12 @@
             <h1 class="post-title anchor-style">
                     {{ include.post.title }}
             </h1>
+            {% if include.post.summary %}
             <div class="preview-text">
                 {{ include.post.summary }}
                 <span class="read-more anchor-style">Read More</span>
             </div>
+            {% endif %}
         </a>
         <div>
             <a class="category icon {{primary_tag_class}}" href="{{ site.baseurl }}/tag/{{ primary_tag_class }}">{{ primary_tag }}</a>
