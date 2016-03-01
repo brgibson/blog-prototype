@@ -44,21 +44,13 @@ The TLAs have no set number of winners, nor need there be honorees in each categ
 
 We've found it, as the 2013 Technology Leadership Awards winners show. We present them in alphabetical order within each category:
 
-* Business management
-  Anthony Ricco, Citrix Systems
+* Business management - Anthony Ricco (Citrix Systems)
 
-* IT management
-  Tim Bell, CERN
-  John Martin, Edmunds.com
-  Chris Whyde, Capital One
+* IT management - Tim Bell (CERN), John Martin (Edmunds.com), Chris Whyde (Capital One)
 
-* Technology creation/management
-  John Basso, Amadeus Consulting
-  Brian O'Neill, Health Market Science
+* Technology creation/management - John Basso (Amadeus Consulting), Brian O'Neill (Health Market Science)
 
-* Technology deployment
-  Craig Brown, STEM Resource Partners
-  Babette Davis, California EDD
+* Technology deployment - Craig Brown (STEM Resource Partners), Babette Davis (California EDD)
 
 TLA 2013: IT Management
 John Martin, senior director of production engineering, Edmunds.com
