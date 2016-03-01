@@ -24,8 +24,8 @@ The first several months of this initiative were pretty slow going, with the tea
 
 Was it a success?  Is there an ROI?  What's the best way to get started leveraging Hadoop? Turning off our legacy ETL was the literal definition of project success, but it has exceeded our expectations by becoming a central repository for Edmunds data rather than just a reporting endpoint.  One effort alone answers the ROI question, and since February the Business Analysts have used the combined data sets and increased processing capabilities to save over $1.7M from our paid search marketing budget through keyword bidding optimization.
 
-For more Hadoop-specific questions, I sat down with Greg Rokita, Edmunds.com's Sr. Director of Software Architecture and Hadoop team lead to get his take on the project and how Hadoop and HBase will keep the Technology and Analytics teams ahead of Edmunds.com's Big Data demands.
-----
+> For more Hadoop-specific questions, I sat down with Greg Rokita, Edmunds.com's Sr. Director of Software Architecture and Hadoop team lead to get his take on the project and how Hadoop and HBase will keep the Technology and Analytics teams ahead of Edmunds.com's Big Data demands.
+
 <h2 class="question-heading">Can you first provide a brief description of Hadoop and HBase for those that might not be familiar with this framework?</h2>
 
 Hadoop is composed of two subsystems: Hadoop Distributed File System that provides scalable, reliable and inexpensive storage and the MapReduce processing framework that allows for processing large quantities of data in a distributed and reliable manner. If you consider a database to be an abstraction on top of a filesystem then, by analogy, HBase is an abstraction on top of HDFS that provides users with higher level functionality rather than just files.  
