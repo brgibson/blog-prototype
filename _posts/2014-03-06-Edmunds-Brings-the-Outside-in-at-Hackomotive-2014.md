@@ -2,7 +2,7 @@
 layout: post
 title: Edmunds Brings the Outside in at Hackomotive 2014
 tags: [Lessons Learned]
-image: 
+image: Hackomotive-2014.jpg
 
 bio: 
  
@@ -22,7 +22,7 @@ Here at Edmunds.com, the only requirement to participate is a passion for changi
 
 From Hack Days to Ignite! to the annual public Hackomotive, Edmunds.com hackathons have become a popular means of creating high-altitude solutions to high-visibility challenges.
 
-HACKOMOTIVE 2013 RECAP
+<b> HACKOMOTIVE 2013 RECAP </b>
 
 Hackomotive 2013 was held over two days, and followed a wide open format: participants first huddled around pre-determined problem spaces, detailing as many issues and pain points. From hundreds of issues, facilitators prepared affinity maps to pull patterns from the myriad, and constructed discrete problem statements.
 
@@ -30,7 +30,7 @@ Individuals then signed up for the problem statement they wanted to tackle, and 
 
 While high energy, high enthusiasm, and high engagement characterized Hackomotive 2013, the Edmunds team decided to take Hackomotive 2014 to a new level.
 
-HACKOMOTIVE 2014
+<b> HACKOMOTIVE 2014 </b>
 
 Hackomotive 2014 took on a distinctly different feel: far more purposeful, far more competitive, and far more productive, owing to several new twists.
 
@@ -42,7 +42,7 @@ Running in tandem to the team competition was a series of innovation workshops i
 
 This handful of key improvements produced a much higher level of excitement, passion, and commitment for all involved. Twelve teams entered, twelve teams finished, and each left the event with a more evolved concept than with which they walked in.
 
-DAY 1
+<b> DAY 1 </b>
 
 Not knowing exactly what to expect, a fair dose of shock and awe landed on the teams when they were presented with the first two surprise challenges: a 60-second, stand-up, no-prop pitch to the judges, followed by a one-minute video pitch later in the afternoon.
 
@@ -52,7 +52,7 @@ The pitches ran the gamut, from rusty and raw to funny and fun. But in the end, 
 
 The sixth floor party was a wonderful and welcome reprieve for everyone!
 
-DAY 2
+<b> DAY 2 </b>
 
 The surprise challenge of the day was a live-event version of Kickstarter: a consumer tradeshow allowing each team to showcase their idea before twenty consumers specially recruited and armed with $15,000 each in fictional "EdBucks" to spend as they wished on their favorite ideas.
 
@@ -64,7 +64,7 @@ To end the day on an entertaining note, and to test the mettle and conviction of
 
 The decision was instantaneous: Team Au.To went with the sealed envelope; they were in it to win it!
 
-Day 3
+<b> Day 3 </b>
 
 The prize for winning the consumer tradeshow was recognized by all when the surprise challenge of Day 3 was announced: a 1-minute video to be shot and shown as part of the team's final presentation.
 
@@ -79,74 +79,3 @@ In the judges' chambers a rather lengthy back-and-forth ensued. In the end, the 
 If there is one word that describes the Hackomotive 2014 experience it is this: Surprise!
 
 To learn more about Hackomotive 2014 visit [Hackomotive](www.hackomotive.com).
-
-
-
-This is where you put the actual text for the blog post.
-
-Here's a template table:
-
-| Things I like to Eat | Reasons Why |
-| ------ | ----------- |
-| Frozen Peas | I love frozen peas because they are refreshing and cold.  What a great summer snack! |
-| Fish Sticks are great too| I mean... they go well with frozen peas |
-| Peanut Butter and Jelly Sandwiches and other types of sandwiches | Who doesn't like sandwiches|
-| Frozen Peas | I mean come on.  Who doesn't like them?  Most people maybe... |
-
-Here's an example of a numbered list.
-
-1. Proactive - take ownership of your own work
-2. An adult - gives you responsibility and holds you accountable
-3. Communicative - requires you to actually talk to your teammates
-
-Here's how to do a bulleted list:
-
-* Proactive - take ownership of your own work
-* An adult - gives you responsibility and holds you accountable
-* Communicative - requires you to actually talk to your teammates
-
-Here's an example of a blockquote:
-
-> This is a blockquote.  It's where you are quoting something and you want it to look like this.  So there it is.
-
-Here's an example of inserting an image:
-
-![Image of Edmunds Technology]({{site.baseimagesurl}}/edmunds-technology.png)
-
-or
-
-<img src="{{site.baseimagesurl}}/edmunds-technology.png" />
-
-Here's how you can do a Q/A header
-
-<h2 class="question-heading">What are some things to keep in mind before migrating to the cloud?</h2>
-
-Here's how you can do headers
-
-## Here's an H2
-
-The header was above me
-
-### Here's an H3
-
-It's still a header above me
-
-#### Here's an H4
-
-And one last one
-
-Here's how to do an additional bio... if there are multiple authors:
-
-<p class="clearfix">
-        <img src="{{site.baseimagesurl}}/Mike-pic.jpg" style="float: right;margin-left: 1em;max-width:12em;max-height:15em;"/>
-
-        <i style="font-size:.75rem">
-            This is the bio for joe bob.  It's a bio for bob.  This is where you should put info about bob. This is more info about bob.  
-            Who knows things about bob.  I know things about bob. This is the bio for joe bob.  It's a bio for bob.  This is where you should
-            put info about bob.   
-        </i>
-</p>
-
-
-
-
