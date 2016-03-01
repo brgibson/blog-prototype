@@ -26,13 +26,13 @@ An API is a gateway that enables developers to communicate with your systems in 
 
 3. Partnership Enablement - In the not-so-distant past, the data exchange between your company and your partners was done through CSV files that are FTP'd periodically to a remote server. Unfortunately, that approach is long dead because it doesn't scale.  Enabling external access to your systems through an API has its benefits. 
 
-* Scalability: Partners can access the data they need when they need it. No need to compile yet another data file to satisfy a slightly different use case needed by your partner. You provide the data and put the power to access it in your partners' hands.
+   * Scalability: Partners can access the data they need when they need it. No need to compile yet another data file to satisfy a slightly different use case needed by your partner. You provide the data and put the power to access it in your partners' hands.
 
-* Data Integrity: No more stale data! No more, "oh, we need to FTP a new file to reflect the recent changes in data." The data available through the API is the most up-to-date data you can get. Period.
+   * Data Integrity: No more stale data! No more, "oh, we need to FTP a new file to reflect the recent changes in data." The data available through the API is the most up-to-date data you can get. Period.
 
-* Control: If for some reason you and your partner part ways, you can terminate their access quickly and easily.
+   * Control: If for some reason you and your partner part ways, you can terminate their access quickly and easily.
 
-* Analytics: You will get full visibility into what data your partners are using and how often they're getting it. This could help you optimize your API and offer your partners more insight into data usage that you wouldn't get with uploading a static CSV file to an FTP server.
+   * Analytics: You will get full visibility into what data your partners are using and how often they're getting it. This could help you optimize your API and offer your partners more insight into data usage that you wouldn't get with uploading a static CSV file to an FTP server.
 
 4. Branding - APIs help get your brand name out there through 3rd party implementations of your data. For example, the Edmunds API requires entities that use it to give us attribution by showing our logo on their site and linking back to us. This helps cement the fact that we're the authoritative automotive data provider out there. That's powerful, passive marketing we all should tap into.
 
