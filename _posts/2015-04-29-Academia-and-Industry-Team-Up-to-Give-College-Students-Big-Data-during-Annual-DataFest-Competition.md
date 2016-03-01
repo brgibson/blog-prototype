@@ -20,7 +20,7 @@ The ambitious and self-motivated undergraduate students of DataFest spend one we
 
 "The students found a lot of unexpected and interesting stories to tell using the car shopping data from Edmunds," said Mine Çetinkaya-Rundel, Assistant Professor of the Practice in the Department of Statistical Science at Duke University. Mine is a co-founder of the event, which has been running annually since 2011. She added, "I think that this experience made them truly appreciate the importance of data analysis skills required for working with large and complex datasets and made them excited for working with such data in the future."
 
-The vast majority of the automotive data that powers Edmunds.com's website, iOS app, Android app and tools has been made available to the larger developer community for free at [Developer Edmunds](http://developer.edmunds.com/)
+The vast majority of the automotive data that powers Edmunds.com's website, iOS app, Android app and tools has been made available to the larger developer community for free at [Developer Edmunds](http://developer.edmunds.com/).
 
 The company also encourages use of its data by teams in its annual Hackomotive challenge, which parallels DataFest in its encouragement of innovation. Edmunds awarded $35,000 in prizes during the 2015 event, the third of its kind.
 
@@ -30,8 +30,8 @@ At Duke University, students David Clancy (Statistical Science & Mathematics), T
 
 "'Big Data' trends are likely to generate lucrative and satisfying jobs for many of today's brightest students, DataFest is a résumé-builder as well as a memorable and fun experience," observed Paddy Hannon, Chief Data Officer at Edmunds.com.  "We appreciated the opportunity to get involved, not only to support this worthwhile program but also to connect with students who could become members of the Edmunds.com data team someday soon."
 
-There are currently six open positions in Edmunds' Business Analytics department; details can be found at [Edmunds Jobs](http://www.edmunds.com/about/jobs/)
+There are currently six open positions in Edmunds' Business Analytics department; details can be found at [Edmunds Jobs](http://www.edmunds.com/about/jobs/).
 
-Other sponsors of DataFest include APT, DataCamp, Google, MassMutual Financial Group, MaxPoint, Panton Inc., RTI International, SAS and Summit. For more information on DataFest, please visit [amstat.org/education/datafest](http://www.amstat.org/education/datafest/)
+Other sponsors of DataFest include APT, DataCamp, Google, MassMutual Financial Group, MaxPoint, Panton Inc., RTI International, SAS and Summit. For more information on DataFest, please visit [amstat.org/education/datafest](http://www.amstat.org/education/datafest/).
 
 
