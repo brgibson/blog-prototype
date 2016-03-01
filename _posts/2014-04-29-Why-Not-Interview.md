@@ -24,19 +24,19 @@ I was nervous because it had been a long time since I had been on an interview a
 
 Most of the discussion centered around how we do things at Edmunds and by the end, I realized, too late, their leadership could not relate to our SOP; scrum team collaboration on features, engineering establishes quality which influences thoughtfulness on design. What I now assume is the standard operating model for most companies; agile, design thinking, lean, innovation, and collaboration; was not the case. 
 
-> <b> What I discovered was more than I set out to find. </b>
+<h2 class="question-heading">What I discovered was more than I set out to find.</h2>
 
 The interview process reaffirmed what I initially believed. I work at a company that really values my abilities and helps me grow. Edmunds isn't for everyone, but it is for me. I discovered there are companies that believe they are innovative and want change, but they don't understand what that really means. And I'm really lucky to be at a company that actually lives by that credo.
 
-> <b> This process was also a huge wake-up call. </b>
+<h2 class="question-heading">This process was also a huge wake-up call.</h2>
 
 Once upon a time, I was a great interviewer. If I can get my foot in the door, I can speak to my abilities. Instead, I was embarrassed by my inability to articulate our process effectively or speak the common language. I had made certain assumptions and was so used to communicating within Edmunds that I let my outward communication skills to become stagnant. I realized for me to grow as a contributing employee, I need to know how to communicate across all levels in and out of Edmunds in order to bring innovative change into Edmunds. 
 
-> <b> It gave me a new perspective. </b>
+<h2 class="question-heading">It gave me a new perspective.</h2>
 
 In order for me to be a well rounded and happy employee, I need to realize my value, contribution, and potential. Am I worth as much as I think. Am I undervalued. Do I have the skills to take myself to the next level. Do I have opportunities to grow? Am I recognized for my work. Am I as much of a rock star as I think I am. These are all questions I needed to dig deep into and consider. I now have a greater appreciation for the skills I've developed at Edmunds and for the growth opportunities I have been exposed to.
 
-> <b> Should Edmunds be concerned about my loyalty? </b>
+<h2 class="question-heading">Should Edmunds be concerned about my loyalty?.</h2>
 
 I don't think that's the right consideration. I shouldn't be uncertain about where I work and why I work there. This interview process only solidifies my commitment to Edmunds. It aligns my beliefs and values with those of the company. It really put a spotlight on my strengths and helps me understand why I belong. 
 
