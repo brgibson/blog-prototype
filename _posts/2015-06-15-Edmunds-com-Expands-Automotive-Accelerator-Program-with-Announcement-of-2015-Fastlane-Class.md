@@ -2,7 +2,7 @@
 layout: post
 title: Edmunds.com Expands Automotive Accelerator Program with Announcement of 2015
 tags: [All Things Tech]
-image: 
+image: /blog-prototype/public/images/Edmunds-Fastlane.jpg
 
 bio:
  
