@@ -2,7 +2,7 @@
 layout: post
 title: Edmunds Brings the Outside in at Hackomotive 2014
 tags: [Lessons Learned]
-image: Hackomotive-2014.jpg
+image: /blog-prototype/public/images/Hackomotive-2014.jpg
 
 bio: 
  
