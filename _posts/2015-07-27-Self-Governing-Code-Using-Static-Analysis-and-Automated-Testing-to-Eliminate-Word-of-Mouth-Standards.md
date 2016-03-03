@@ -1,18 +1,18 @@
 ---
 layout: post
+short-title: Using Static Analysis and Automated Testing to Eliminate Word-of-Mouth Standards
 title: Self-Governing Code - Using Static Analysis and Automated Testing to Eliminate Word-of-Mouth Standards
 tags: [All Things Tech]
-image: /blog-prototype/public/images/Ben-Gibson-pic.png
+image: /blog-prototype/public/images/ben-gibson-pic-2.jpg
 
 bio: Ben Gibson has been at Edmunds for one year working as a Front End Engineer. He is currently working on a User Generated Content project that aims to improve user experience submitting reviews for consumers, auto repair services, and dealerships. In his spare time he enjoys recording music and traveling with his wife.
  
-biopic: Ben-Gibson-pic.png
+biopic: ben-gibson-pic-2.jpg
 
 featured-summary:
-    <p>Have you ever submitted code for review that is working perfectly and has great unit tests, but the response you get is, "Oh, we use tabs for indentation" or "We use ALL_CAPS_WITH_UNDERSCORES for static variable names. Please change, thx!"?</p>
     <p>Have you ever submitted code for review that is working perfectly and has great unit tests, but the response you get is, "Oh, we use tabs for indentation" or "We use ALL_CAPS_WITH_UNDERSCORES for static variable names. Please change, thx!"? Even though these fixes are easy to make, it can still frustrating that you didn't know about these standards beforehand.  Or maybe you tried to figure them out by searching the company wiki but you found conflicting results.  Either way, it can be painful that word of mouth was needed to figure out something so trivial.</p>
 
-summary: Have you ever submitted code for review that is working perfectly and has great unit tests, but the response you get is, "Oh, we use tabs for indentation" or "We use ALL_CAPS_WITH_UNDERSCORES for static variable names. Please change, thx!"?
+summary: Have you ever submitted code for review that is working perfectly and has great unit tests, but the response you get is, "Oh, we use tabs for indentation" or 
 ---
 
 <h2 class="question-heading">The Problem</h2>

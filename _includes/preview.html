@@ -13,7 +13,11 @@
     <div class="preview-main {% if hasImage == false %}no-image{% endif %}">
         <a class="main-link no-underline no-color" href="{{ post_url }}">
             <h1 class="post-title anchor-style">
+                {% if include.post.short-title %}
+                    {{ include.post.short-title }}
+                {% else %}
                     {{ include.post.title }}
+                {% endif %}
             </h1>
             {% if include.post.summary %}
             <div class="preview-text">
