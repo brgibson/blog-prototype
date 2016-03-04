@@ -2,7 +2,7 @@
 layout: post
 title: The Unexpected Bonuses of Microbonuses
 tags: [Lessons Learned]
-image: /blog-prototype/public/images/Ben-Gibson-pic.png
+image: /blog-prototype/public/images/Bonusly-pic.jpg
 
 bio: Ben Gibson has been at Edmunds for one year working as a Front End Engineer.  He is currently working on a User Generated Content project that aims to improve user experience submitting reviews for consumers, auto repair services, and dealerships.  In his spare time he enjoys recording music and traveling with his wife.
  
