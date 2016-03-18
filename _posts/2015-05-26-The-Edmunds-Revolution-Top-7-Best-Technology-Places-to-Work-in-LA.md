@@ -4,7 +4,6 @@ title: The Edmunds Revolution - One of Top 7 Best Technology Places to Work in L
 tags: [Lessons Learned]
 
 ---
-<p>
 
 Built in LA recently published an article referencing Edmunds as one of the Top 7 Best Technology Places to Work in LA.  [7 Companies to Advance Your Career in Tech - That Are Hiring Right Now](http://www.builtinla.com/2015/04/29/7-companies-advance-your-career-tech-are-hiring-right-now/). While the article lists the extrinsic benefits, there's more to our company than the surface freebies. In an internal discussion about this article, our own Julie Merges,Chief People Officer, states it best.
 
@@ -12,7 +11,6 @@ Built in LA recently published an article referencing Edmunds as one of the Top 
 
 If you are interested in learning more about our culture, take a look at our [open positions](http://www.edmunds.com/careers/) and interview for yourself. 
 
-</p>
 
 
 
