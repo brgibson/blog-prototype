@@ -17,12 +17,14 @@ Startups in 2015 Class Focus on Bringing Innovative Solutions to Car Shopping
 Published: 06/09/2015 
 
 SANTA MONICA, Calif. - June 2, 2015 - Car-buying platform Edmunds.com today announced the six startups chosen for the 2015 class of its Fastlane accelerator program:
-* fiSpeed.com
-* ZipFlip.com
-* MyCarBuyingSecrets.com
-* MyAutoCloud.com
-* Credit Concierge
-* Leasify
+<li>
+fiSpeed.com
+ZipFlip.com
+MyCarBuyingSecrets.com
+MyAutoCloud.com
+Credit Concierge
+Leasify
+</li>
 
 Throughout the three-month program, these startups will have the opportunity to work with the technology, design, analytics and business development departments at Edmunds to refine their products and better understand the value they can bring to the automotive industry. By giving each of the selected startups access to a vast network of internal and external resources, Edmunds hopes to provide a path to foster innovations that will improve the car shopping experience in creative ways.
 
