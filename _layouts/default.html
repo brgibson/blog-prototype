@@ -20,7 +20,9 @@
                 </main>
             </div>
             <div class="secondary-container">
-                {% include about.html %}
+                {% if page.isAbout != true %}
+                    {% include about.html %}
+                {% endif %}
                 {% include posts-by-date.html %}
             </div>
         </div>
