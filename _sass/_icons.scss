@@ -7,53 +7,39 @@
  * 2636 - Mountain Trigram
  * 2696 - Scales
  */
-
 .icon {
     &:before {
         display: inline-block;
         margin-right: .4rem;
         font-size: 1.75rem;
     }
+
     &.all-things-tech:before {
         font-family: 'fontello';
         font-size: 1rem;
-//        content: '\e852'; //glasses
-        content: '\e82c'; //code tags </>
+        content: '\e82c'; //code tags
     }
     &.big-data:before {
         font-family: 'fontello';
         font-size: 1rem;
         content: '\e835'; //chart-area
     }
-    &.reflections:before {
-        content: '\2696'; //SCALES
-        vertical-align: text-bottom;
+    &.front-end {
+        padding-bottom: 3px;
+        &:before {
+            content: '\2632'; //trigram
+            vertical-align: sub;
+        }
     }
     &.lessons-learned:before {
         font-family: 'fontello';
         font-size: 1rem;
-//        content: '\e831'; //paper airplane
         content: '\e849'; //graduation cap
     }
-    &.front-end {
-        padding-bottom: 3px;
-        &:before {
-            content: '\2632'; //Trigram
-            vertical-align: sub;
-        }
-    }
     &.reflections:before {
-        content: '\2696'; //SCALES
+        content: '\2696'; //scales
         vertical-align: text-bottom;
     }
-//    &.reflections:before {
-//        content: '\262F'; //YIN YANG
-//        vertical-align: sub;
-//    }
-//    &.reflections:before {
-//        content: '\262E'; //Peace
-//        vertical-align: sub;
-//    }
     &.tips-and-tricks:before {
         content: '\261E'; //Index Finger
         vertical-align: bottom;
