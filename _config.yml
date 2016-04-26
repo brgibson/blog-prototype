@@ -24,6 +24,9 @@ sass:
 author:
   name:              Edmunds Technology
 
+# Additional Files To Exclude
+exclude: ["README.md"]
+
 # Custom vars
 version:             2.0.0
 github:
