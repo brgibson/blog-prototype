@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               The Edmunds Tech Blog
 tagline:             We &#9829; Technology
-url:                 http://brgibson.github.io/blog-prototype
+url:                 http://brgibson.github.io
 paginate:            6
 paginate_path:       "/:num/"
 baseurl:             "/blog-prototype"
